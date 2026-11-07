@@ -93,7 +93,7 @@ AUDIO_FILES = [
     },
 ]
 
-OUTPUT_DIR = PROJECT / "acoustic_comparison_6_results"
+OUTPUT_DIR = PROJECT / "acoustic_comparison_6_results_v2"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 # Load API key without displaying it.
@@ -117,13 +117,13 @@ client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 
 def build_prompt(item):
-    cue_lines = "\n".join(
+    cue_lines = "\\n".join(
         f"Cue {cue_id}: {interval}"
         for cue_id, interval in item["cues"].items()
     )
 
     return f"""
-Analyze the acoustic properties of the voice in the attached audio.
+Analyze the acoustic properties of the HUMAN VOICE in the attached audio.
 
 The attached audio is a short clip extracted from a movie.
 The clip begins at movie time {item["start"]}.
@@ -133,44 +133,78 @@ of the attached clip:
 
 {cue_lines}
 
-IMPORTANT RULES:
+IMPORTANT ANALYSIS RULES:
 
-- Do NOT infer emotion or meaning from words.
+- Analyze only audible acoustic evidence from the human voice.
+- Do NOT infer emotion or meaning from the words.
 - Do NOT use subtitles, character identities, plot, or visual information.
 - Do NOT compare this recording with another recording.
-- Analyze only audible acoustic evidence.
-- Do not describe a pause or breath outside the specified cue interval.
-- Do not invent breaths, vocal fry, or emotional qualities.
-- Distinguish actual audible breathing from ordinary sentence-final
-  sound release whenever possible.
-- If background music or processing makes a feature uncertain,
+- Distinguish the human voice from background music and sound effects.
+- Do NOT attribute musical intensity, instruments, impacts, or sound
+  effects to the speaker's vocal characteristics.
+- Evaluate perceived vocal loudness, not the overall loudness of the mix.
+- Do NOT assume that loudness means anger or strong emotion.
+- Do NOT assume that high pitch means excitement or fear.
+- Do NOT invent vocal qualities that are not clearly audible.
+- If music, sound effects, or audio processing make a feature uncertain,
   explicitly report that uncertainty.
-- If a cue is too short to assess, say so.
-- Do not assume that louder audio means stronger emotion.
+- If a cue is too short to assess reliably, say so.
+- Report "unclear" rather than guessing.
+- Breathing analysis is NOT required. Do not identify or classify
+  breathing sounds.
 
-For each cue report:
+FOR EACH CUE, ANALYZE THESE AREAS:
 
-- loudness: low, moderate, moderate-high, or high
-- pitch: approximate range and contour
-- voice_quality: clear, breathy, raspy, strained, pressed, dry,
-  muffled, or another observable quality
-- rate_and_rhythm: slow, moderate, fast, measured, uneven, etc.
-- vocal_stability: stable or unstable, with audible evidence
-- breathing_and_pauses: only sounds clearly audible inside the cue
-- clearly_audible_features: specific observable features
-- uncertain_features: anything that cannot be determined reliably
+1. emotion:
+   Identify the emotion conveyed by the voice alone.
+   Possible values: neutral, anger, sadness, fear, happiness,
+   excitement, disgust, surprise, mixed, or unclear.
+   Do not force an emotion when acoustic evidence is insufficient.
+
+2. emotion_intensity:
+   low, moderate, high, or unclear.
+   This is the intensity of the emotional expression, NOT recording volume.
+
+3. vocal_delivery:
+   Describe how the speaker produces the voice.
+   Examples: conversational, restrained, emphatic, forceful,
+   shouting, whispering, crying, laughing, tense, or controlled.
+   Use only qualities supported by audible evidence.
+
+4. loudness_and_pitch:
+   Describe perceived vocal loudness separately from pitch.
+   Include pitch contour where audible: rising, falling, level,
+   or variable. Do not invent precise numerical pitch measurements.
+
+5. voice_quality_and_rhythm:
+   Describe observable voice quality, such as clear, breathy, raspy,
+   strained, pressed, dry, or muffled. Describe speaking rate and
+   rhythm as slow, moderate, fast, measured, or uneven.
+
+6. vocal_stability:
+   stable, unstable, or unclear, with brief audible evidence.
+
+IMPORTANT DISTINCTIONS:
+
+- Forceful delivery does not automatically indicate anger.
+- Strained or pressed phonation does not automatically indicate
+  emotional distress.
+- A loud voice can be emotionally neutral.
+- A quiet voice can express strong emotion.
+- Do not interpret background music as evidence of vocal emotion.
+- Do not use silence or pauses as evidence of emotion by themselves.
 
 Return valid JSON only.
 
 Use this structure:
 {{
-  "cue_ID": {{
-    "loudness": "",
-    "pitch": "",
-    "voice_quality": "",
-    "rate_and_rhythm": "",
+  "Cue 66": {{
+    "emotion": "",
+    "emotion_intensity": "",
+    "vocal_delivery": "",
+    "loudness_and_pitch": "",
+    "voice_quality_and_rhythm": "",
     "vocal_stability": "",
-    "breathing_and_pauses": "",
     "clearly_audible_features": [],
     "uncertain_features": []
   }},
@@ -181,9 +215,10 @@ Use this structure:
   }}
 }}
 
-Replace cue_ID with the actual cue identifiers.
+Replace "Cue 66" with each actual cue label exactly as listed above.
+Include every requested cue exactly once.
+Do not add extra cue entries.
 """
-
 
 def process_audio(item):
     audio_path = item["path"]
@@ -231,7 +266,7 @@ def process_audio(item):
             raise ValueError("Gemini JSON object буцаасангүй.")
 
         expected_keys = {
-            f"cue_{cue_id}" for cue_id in item["cues"]
+            f"Cue {cue_id}" for cue_id in item["cues"]
         }
         missing_keys = expected_keys - set(result.keys())
 
@@ -256,20 +291,25 @@ def process_audio(item):
 
 
 def main():
-    print("HUSBANDS — 6 AUDIO COMPARISON TEST")
-    print(f"Model: gemini-3.5-flash-lite")
+    # First validate the revised prompt on the emotional A/B pair only.
+    # The original six-result folder is preserved; new outputs go to v2.
+    pilot_names = {"emotional_original", "emotional_speech"}
+    pilot_files = [item for item in AUDIO_FILES if item["name"] in pilot_names]
+
+    print("HUSBANDS — REVISED ACOUSTIC PROMPT PILOT")
+    print("Model: gemini-3.5-flash-lite")
     print(f"Output: {OUTPUT_DIR}")
-    print(f"Нийт файл: {len(AUDIO_FILES)}")
+    print(f"Pilot files: {len(pilot_files)} (emotional Original + Speech)")
 
     results = []
 
-    for index, item in enumerate(AUDIO_FILES, start=1):
+    for index, item in enumerate(pilot_files, start=1):
         print(f"\nФайл {index}/{len(AUDIO_FILES)}")
 
         success = process_audio(item)
         results.append((item["name"], success))
 
-        if index < len(AUDIO_FILES):
+        if index < len(pilot_files):
             time.sleep(3)
 
     print("\n" + "=" * 60)
