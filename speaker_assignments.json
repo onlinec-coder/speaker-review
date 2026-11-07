@@ -3016,17 +3016,17 @@
       "subtitle_id": 377,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "inner_monologue",
       "confidence": "medium",
-      "evidence": "Vivienne-ийн POV дахь Lucian-ийн тухай бодол, дүгнэлтийн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne Lucian-ийн snow lily cake-ийг мартсаныг дотроо дүгнэж буй бодол; 383-р мөрийн 'I thought' болон 385-р мөрийн 'I'm going to use every single second of it' нь энэ дотоод бодлын үргэлжлэлийг батална."
     },
     {
       "subtitle_id": 378,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "inner_monologue",
       "confidence": "medium",
-      "evidence": "377-р мөрийн Vivienne-ийн POV хүүрнэл үргэлжилж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "377-р мөрийн Vivienne-ийн дотоод бодлын үргэлжлэл; 383-р мөрийн 'I thought' нь энэ бодлын хэсгийг батална."
     },
     {
       "subtitle_id": 379,
@@ -5822,11 +5822,11 @@
     },
     {
       "subtitle_id": 728,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "Arya-ийн уруулаараа хэлж буй үг (mouthed)."
+      "evidence": "722–724-р мөрүүдэд Vivienne Lucian-д шууд хариулж байна; 725-р мөрийн 'What choices?' болон 726-р мөрийн 'His voice cracked' нь Lucian-ийн асуултыг зааж, 728-р мөрийн 'You signed a contract with someone else' нь Vivienne-ийн хариу болж байна."
     },
     {
       "subtitle_id": 729,
@@ -14405,17 +14405,17 @@
         "subtitle_id": 377,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "inner_monologue",
         "confidence": "medium",
-        "evidence": "Vivienne-ийн POV дахь Lucian-ийн тухай бодол, дүгнэлтийн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne Lucian-ийн snow lily cake-ийг мартсаныг дотроо дүгнэж буй бодол; 383-р мөрийн 'I thought' болон 385-р мөрийн 'I'm going to use every single second of it' нь энэ дотоод бодлын үргэлжлэлийг батална."
       },
       {
         "subtitle_id": 378,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "inner_monologue",
         "confidence": "medium",
-        "evidence": "377-р мөрийн Vivienne-ийн POV хүүрнэл үргэлжилж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "377-р мөрийн Vivienne-ийн дотоод бодлын үргэлжлэл; 383-р мөрийн 'I thought' нь энэ бодлын хэсгийг батална."
       },
       {
         "subtitle_id": 379,
@@ -14459,11 +14459,11 @@
       },
       {
         "subtitle_id": 728,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "Arya-ийн уруулаараа хэлж буй үг (mouthed)."
+        "evidence": "722–724-р мөрүүдэд Vivienne Lucian-д шууд хариулж байна; 725-р мөрийн 'What choices?' болон 726-р мөрийн 'His voice cracked' нь Lucian-ийн асуултыг зааж, 728-р мөрийн 'You signed a contract with someone else' нь Vivienne-ийн хариу болж байна."
       },
       {
         "subtitle_id": 770,
