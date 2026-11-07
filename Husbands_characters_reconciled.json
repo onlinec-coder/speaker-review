@@ -577,43 +577,18 @@
       "source_ids": [
         "C019"
       ]
-    },
-    {
-      "id": "C021",
-      "canonical_name": "Valerius",
-      "aliases": [
-        "Alpha Valerius",
-        "Luna Valerius"
-      ],
-      "gender": null,
-      "relationships": [],
-      "speech_style": [],
-      "evidence": [
-        "1093"
-      ],
-      "confidence": "high",
-      "source_ids": [
-        "C021"
-      ]
     }
   ],
-  "review_required": [
-    {
-      "suggested_name": "Valerius",
-      "character_ids": [
-        "C021"
-      ],
-      "reason": "1093-р мөрөнд Alpha Valeris болон Luna Valeris хамтад нь дурдагдсан. Энэ нь бие даасан дүр/яригч биш тул C012 ба C013-аас тусад нь дүр үүсгэхгүй."
-    }
-  ],
+  "review_required": [],
   "unresolved": [
-    "C021: Alpha Valeris ба Luna Valeris-ийн хамтарсан дурдлага; бие даасан яригч биш"
+    "C021 (speaker candidate биш): SRT cue 1093 дахь Alpha Valeris болон Luna Valeris-ийн хамтарсан дурдлага. Энэ нь бие даасан дүр биш тул characters жагсаалтад оруулахгүй."
   ],
   "notes": [
     "Зөвхөн merge_candidates доторх дүрүүдийг нэгтгэсэн.",
     "review_required дүрүүдийг тусад нь үлдээсэн.",
     "exclude_from_characters доторх бүртгэлийг хассан.",
     "2026-11-07: C011 Lucien was removed after source SRT verification found no occurrence of 'Lucien'; related references were corrected to Lucian. C022 Luke was merged into C010 Luke Laurent after dialogue verification of cues 1191, 1193-1195, and 1197.",
-    "2026-11-07: C021-ийн өмнөх evidence IDs 811, 816 нь хамтарсан Valeris дурдлагатай таарахгүй байсан тул бодит хамтарсан дурдлага болох SRT cue 1093-аар сольсон. C021 нь зөвхөн хамтарсан дурдлагын unresolved тэмдэглэл бөгөөд speaker assignment-д ашиглагдахгүй."
+    "2026-11-07: C021-ийн өмнөх evidence IDs 811, 816 нь хамтарсан Valeris дурдлагатай таарахгүй байсан тул бодит хамтарсан дурдлага болох SRT cue 1093-аар сольсон. C021 нь зөвхөн хамтарсан дурдлагын unresolved тэмдэглэл бөгөөд speaker assignment-д ашиглагдахгүй.",
+    "2026-11-07: C021 Valerius нь Alpha Valeris болон Luna Valerius-ийн хамтарсан дурдлага болохоос бие даасан дүр/яригч биш. Speaker engine нь Narrator-оос бусад characters бүртгэлийг AI prompt-д дамжуулдаг тул C021-ийг characters жагсаалтаас хасаж, unresolved тэмдэглэлд хадгалсан. Ингэснээр давхардсан Alpha/Luna alias-ууд AI-ийн сонголтод орохгүй."
   ]
 }
