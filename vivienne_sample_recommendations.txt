@@ -1,0 +1,174 @@
+VOICE-CLONE CANDIDATE SEGMENTS - OBJECTIVE ANALYSIS (no speaker or emotion identification)
+Source: Husbands_audio.wav  duration 37:40.997 (2261.00s)  16000 Hz mono 16-bit
+Timestamps are MM:SS.mmm from file start; boundary precision about +/-25 ms.
+Extract example:  ffmpeg -ss <start_s> -to <end_s> -i Husbands_audio.wav -c copy sample.wav
+(start_s / end_s in seconds are in vivienne_candidate_segments.csv)
+
+QUALITY SCORE (0-100, objective, reproducible):
+  35% estimated SNR  (active-frame median level minus 10th-percentile frame level; 5 dB ->0, 25 dB ->1)
+  20% voiced share of active frames (0.35 ->0, 0.75 ->1)
+  20% F0 consistency (1 - max(phrase-median F0 range/8 semitones, F0-band mixing))
+  15% level (active median within -26..-14 dBFS = 1, linear falloff 12 dB)
+  10% pause naturalness (1-5 pauses per 10 s = 1)
+  -5 points if any clipped sample.  It does NOT measure speaker identity, emotion or music/SFX content.
+
+==============================================================================
+A. TOP 15 OVERALL (non-overlapping, any duration 5-60 s)
+==============================================================================
+ 1. 17:03.523 -> 17:10.173  dur   6.7s  score  97.2  level  -19.6 dBFS  peak  -4.9  SNR~31.3 dB  F0 med  155 Hz [139-171]  F0 std 1.6 st  voiced 73%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 2. 16:01.963 -> 16:11.683  dur   9.7s  score  94.7  level  -18.9 dBFS  peak  -3.9  SNR~22.8 dB  F0 med  152 Hz [140-253]  F0 std 4.6 st  voiced 65%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 3. 35:52.482 -> 36:00.992  dur   8.5s  score  93.9  level  -22.2 dBFS  peak  -2.5  SNR~25.4 dB  F0 med  170 Hz [147-320]  F0 std 5.4 st  voiced 69%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 4. 13:51.583 -> 13:58.683  dur   7.1s  score  93.4  level  -24.0 dBFS  peak  -3.9  SNR~27.5 dB  F0 med  179 Hz [96-210]  F0 std 4.8 st  voiced 42%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 5. 07:55.442 -> 08:10.322  dur  14.9s  score  93.3  level  -21.1 dBFS  peak  -0.6  SNR~38.0 dB  F0 med  162 Hz [98-347]  F0 std 7.6 st  voiced 61%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 6. 24:17.663 -> 24:23.842  dur   6.2s  score  93.2  level  -15.6 dBFS  peak  -0.7  SNR~22.6 dB  F0 med  147 Hz [133-171]  F0 std 0.4 st  voiced 55%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 7. 15:17.942 -> 15:24.333  dur   6.4s  score  92.8  level  -21.5 dBFS  peak  -4.0  SNR~22.9 dB  F0 med  157 Hz [146-187]  F0 std 2.9 st  voiced 57%  band high(>=115 Hz)
+      warnings: phrase level differs by >12 dB (possible speaker/mic change)   | speaker: NOT VERIFIED
+ 8. 18:45.463 -> 18:55.352  dur   9.9s  score  91.8  level  -18.2 dBFS  peak  -0.4  SNR~24.2 dB  F0 med  153 Hz [98-196]  F0 std 4.3 st  voiced 68%  band high(>=115 Hz)
+      warnings: phrase level differs by >12 dB (possible speaker/mic change)   | speaker: NOT VERIFIED
+ 9. 36:07.432 -> 36:18.662  dur  11.2s  score  91.7  level  -23.5 dBFS  peak  -4.1  SNR~23.9 dB  F0 med  178 Hz [154-349]  F0 std 6.2 st  voiced 67%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+10. 22:03.193 -> 22:09.733  dur   6.5s  score  89.4  level  -20.0 dBFS  peak  -2.9  SNR~23.2 dB  F0 med  161 Hz [104-198]  F0 std 4.0 st  voiced 59%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+11. 19:28.473 -> 19:33.753  dur   5.3s  score  89.2  level  -12.9 dBFS  peak  -0.4  SNR~20.0 dB  F0 med  155 Hz [136-188]  F0 std 3.1 st  voiced 45%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+12. 06:47.423 -> 06:52.752  dur   5.3s  score  88.7  level  -14.3 dBFS  peak  -1.8  SNR~20.4 dB  F0 med  151 Hz [138-183]  F0 std 1.7 st  voiced 60%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+13. 07:42.222 -> 07:48.382  dur   6.2s  score  88.6  level  -13.7 dBFS  peak  -1.6  SNR~19.4 dB  F0 med  157 Hz [136-175]  F0 std 1.3 st  voiced 47%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+14. 34:23.862 -> 34:31.132  dur   7.3s  score  88.3  level  -18.5 dBFS  peak  -5.9  SNR~20.5 dB  F0 med  155 Hz [138-320]  F0 std 4.5 st  voiced 72%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+15. 20:33.092 -> 20:43.303  dur  10.2s  score  88.2  level  -13.5 dBFS  peak  -0.7  SNR~19.2 dB  F0 med  159 Hz [141-183]  F0 std 3.3 st  voiced 54%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+
+==============================================================================
+B. BEST IN DURATION BIN 5-10s
+==============================================================================
+ 1. 17:03.523 -> 17:10.173  dur   6.7s  score  97.2  level  -19.6 dBFS  peak  -4.9  SNR~31.3 dB  F0 med  155 Hz [139-171]  F0 std 1.6 st  voiced 73%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 2. 16:01.963 -> 16:11.683  dur   9.7s  score  94.7  level  -18.9 dBFS  peak  -3.9  SNR~22.8 dB  F0 med  152 Hz [140-253]  F0 std 4.6 st  voiced 65%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 3. 35:52.482 -> 36:00.992  dur   8.5s  score  93.9  level  -22.2 dBFS  peak  -2.5  SNR~25.4 dB  F0 med  170 Hz [147-320]  F0 std 5.4 st  voiced 69%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 4. 13:51.583 -> 13:58.683  dur   7.1s  score  93.4  level  -24.0 dBFS  peak  -3.9  SNR~27.5 dB  F0 med  179 Hz [96-210]  F0 std 4.8 st  voiced 42%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 5. 24:17.663 -> 24:23.842  dur   6.2s  score  93.2  level  -15.6 dBFS  peak  -0.7  SNR~22.6 dB  F0 med  147 Hz [133-171]  F0 std 0.4 st  voiced 55%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+
+==============================================================================
+B. BEST IN DURATION BIN 10-20s
+==============================================================================
+ 1. 07:55.442 -> 08:10.322  dur  14.9s  score  93.3  level  -21.1 dBFS  peak  -0.6  SNR~38.0 dB  F0 med  162 Hz [98-347]  F0 std 7.6 st  voiced 61%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 2. 13:46.503 -> 13:58.683  dur  12.2s  score  92.9  level  -23.8 dBFS  peak  -3.9  SNR~25.9 dB  F0 med  180 Hz [118-247]  F0 std 6.0 st  voiced 47%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 3. 16:57.812 -> 17:10.173  dur  12.4s  score  92.5  level  -18.5 dBFS  peak  -4.5  SNR~22.3 dB  F0 med  156 Hz [140-175]  F0 std 2.3 st  voiced 67%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 4. 16:00.873 -> 16:11.683  dur  10.8s  score  92.1  level  -18.6 dBFS  peak  -3.9  SNR~21.3 dB  F0 med  152 Hz [140-214]  F0 std 4.5 st  voiced 62%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 5. 36:07.432 -> 36:18.662  dur  11.2s  score  91.7  level  -23.5 dBFS  peak  -4.1  SNR~23.9 dB  F0 med  178 Hz [154-349]  F0 std 6.2 st  voiced 67%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+
+==============================================================================
+B. BEST IN DURATION BIN 20-40s
+==============================================================================
+ 1. 07:55.442 -> 08:18.623  dur  23.2s  score  92.4  level  -19.6 dBFS  peak  -0.6  SNR~27.8 dB  F0 med  167 Hz [119-347]  F0 std 6.8 st  voiced 62%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 2. 13:37.942 -> 13:58.683  dur  20.7s  score  90.9  level  -21.1 dBFS  peak  -3.9  SNR~25.7 dB  F0 med  178 Hz [97-218]  F0 std 5.7 st  voiced 39%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 3. 16:49.423 -> 17:10.173  dur  20.8s  score  90.3  level  -17.6 dBFS  peak  -4.5  SNR~21.1 dB  F0 med  158 Hz [141-178]  F0 std 2.1 st  voiced 65%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 4. 34:10.822 -> 34:35.232  dur  24.4s  score  86.2  level  -18.7 dBFS  peak  -4.3  SNR~21.3 dB  F0 med  155 Hz [137-207]  F0 std 4.2 st  voiced 58%  band high(>=115 Hz)
+      warnings: phrase level differs by >12 dB (possible speaker/mic change)   | speaker: NOT VERIFIED
+ 5. 06:47.423 -> 07:07.602  dur  20.2s  score  85.7  level  -15.0 dBFS  peak  -1.3  SNR~18.6 dB  F0 med  152 Hz [138-181]  F0 std 2.1 st  voiced 56%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+
+==============================================================================
+B. BEST IN DURATION BIN 40-60s
+==============================================================================
+ 1. 33:54.572 -> 34:35.232  dur  40.7s  score  81.2  level  -18.0 dBFS  peak  -2.4  SNR~19.3 dB  F0 med  156 Hz [138-200]  F0 std 3.6 st  voiced 53%  band high(>=115 Hz)
+      warnings: phrase level differs by >12 dB (possible speaker/mic change)   | speaker: NOT VERIFIED
+ 2. 15:02.223 -> 15:47.843  dur  45.6s  score  80.2  level  -17.5 dBFS  peak  -2.0  SNR~16.8 dB  F0 med  156 Hz [140-182]  F0 std 3.2 st  voiced 45%  band high(>=115 Hz)
+      warnings: phrase level differs by >12 dB (possible speaker/mic change)   | speaker: NOT VERIFIED
+ 3. 16:26.383 -> 17:10.173  dur  43.8s  score  79.7  level  -18.3 dBFS  peak  -3.7  SNR~18.8 dB  F0 med  160 Hz [140-186]  F0 std 2.6 st  voiced 51%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 4. 06:42.132 -> 07:22.292  dur  40.2s  score  79.0  level  -15.5 dBFS  peak  -1.3  SNR~17.8 dB  F0 med  156 Hz [140-180]  F0 std 2.1 st  voiced 52%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 5. 20:11.013 -> 20:53.463  dur  42.5s  score  78.5  level  -13.2 dBFS  peak  -0.3  SNR~15.4 dB  F0 med  156 Hz [141-184]  F0 std 3.0 st  voiced 40%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+
+==============================================================================
+C1. 10 BEST 'NEUTRAL-LIKE' CANDIDATES (low F0 variation and low level variation; NOT verified as neutral speech)
+==============================================================================
+ 1. 33:15.413 -> 33:25.072  dur   9.7s  score  87.0  level  -17.6 dBFS  peak  -5.5  SNR~17.8 dB  F0 med  156 Hz [142-186]  F0 std 2.4 st  voiced 52%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 2. 19:18.943 -> 19:24.463  dur   5.5s  score  86.5  level  -13.2 dBFS  peak  -0.7  SNR~18.0 dB  F0 med  155 Hz [145-183]  F0 std 1.1 st  voiced 60%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 3. 02:59.232 -> 03:14.612  dur  15.4s  score  86.0  level  -15.3 dBFS  peak  -2.3  SNR~17.9 dB  F0 med  156 Hz [135-183]  F0 std 2.6 st  voiced 45%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 4. 28:21.362 -> 28:26.923  dur   5.6s  score  86.0  level  -17.2 dBFS  peak  -4.4  SNR~17.2 dB  F0 med  158 Hz [145-189]  F0 std 2.2 st  voiced 65%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 5. 20:31.303 -> 20:43.303  dur  12.0s  score  85.8  level  -12.8 dBFS  peak  -0.7  SNR~18.7 dB  F0 med  158 Hz [141-183]  F0 std 3.2 st  voiced 54%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 6. 15:34.673 -> 15:45.083  dur  10.4s  score  85.3  level  -16.2 dBFS  peak  -4.8  SNR~16.9 dB  F0 med  155 Hz [144-182]  F0 std 2.3 st  voiced 53%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 7. 33:40.473 -> 33:48.243  dur   7.8s  score  84.9  level  -17.0 dBFS  peak  -5.0  SNR~16.6 dB  F0 med  155 Hz [146-186]  F0 std 2.6 st  voiced 57%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 8. 31:03.423 -> 31:10.213  dur   6.8s  score  84.8  level  -17.0 dBFS  peak  -4.5  SNR~17.5 dB  F0 med  154 Hz [132-182]  F0 std 2.9 st  voiced 53%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 9. 09:33.173 -> 09:40.643  dur   7.5s  score  84.8  level  -14.7 dBFS  peak  -2.0  SNR~16.5 dB  F0 med  147 Hz [136-170]  F0 std 1.8 st  voiced 63%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+10. 30:21.273 -> 30:35.403  dur  14.1s  score  84.8  level  -16.6 dBFS  peak  -0.2  SNR~18.3 dB  F0 med  150 Hz [135-171]  F0 std 3.7 st  voiced 53%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+
+==============================================================================
+C2. 5 BEST 'EXPRESSIVE-LIKE' CANDIDATES (high F0/loudness variation; variation is not proof of emotion)
+==============================================================================
+ 1. 07:55.442 -> 08:02.972  dur   7.5s  score  80.1  level  -23.7 dBFS  peak  -2.5  SNR~30.4 dB  F0 med  178 Hz [97-417]  F0 std 8.8 st  voiced 59%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 2. 37:32.072 -> 37:40.782  dur   8.7s  score  84.3  level  -20.0 dBFS  peak  -3.8  SNR~24.4 dB  F0 med  150 Hz [96-348]  F0 std 7.5 st  voiced 64%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 3. 19:52.562 -> 19:58.043  dur   5.5s  score  70.9  level  -32.1 dBFS  peak  -0.7  SNR~12.7 dB  F0 med  293 Hz [132-380]  F0 std 6.6 st  voiced 57%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 4. 34:27.262 -> 34:37.602  dur  10.3s  score  64.8  level  -28.3 dBFS  peak  -2.9  SNR~16.1 dB  F0 med  157 Hz [111-347]  F0 std 6.1 st  voiced 56%  band high(>=115 Hz)
+      warnings: phrase-median F0 differs by >5 semitones between phrases; phrase level differs by >12 dB (possible speaker/mic change)   | speaker: NOT VERIFIED
+ 5. 31:16.592 -> 31:23.423  dur   6.8s  score  66.9  level  -23.8 dBFS  peak  -5.3  SNR~14.6 dB  F0 med  150 Hz [133-347]  F0 std 7.0 st  voiced 51%  band high(>=115 Hz)
+      warnings: phrase-median F0 differs by >5 semitones between phrases   | speaker: NOT VERIFIED
+
+==============================================================================
+C3. 5 BEST SOFT / LOW-LEVEL CANDIDATES (lowest 15% median level, still voiced)
+==============================================================================
+ 1. 17:03.523 -> 17:10.173  dur   6.7s  score  97.2  level  -19.6 dBFS  peak  -4.9  SNR~31.3 dB  F0 med  155 Hz [139-171]  F0 std 1.6 st  voiced 73%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 2. 35:52.482 -> 36:00.992  dur   8.5s  score  93.9  level  -22.2 dBFS  peak  -2.5  SNR~25.4 dB  F0 med  170 Hz [147-320]  F0 std 5.4 st  voiced 69%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 3. 13:51.583 -> 13:58.683  dur   7.1s  score  93.4  level  -24.0 dBFS  peak  -3.9  SNR~27.5 dB  F0 med  179 Hz [96-210]  F0 std 4.8 st  voiced 42%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 4. 07:55.442 -> 08:10.322  dur  14.9s  score  93.3  level  -21.1 dBFS  peak  -0.6  SNR~38.0 dB  F0 med  162 Hz [98-347]  F0 std 7.6 st  voiced 61%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 5. 15:17.942 -> 15:24.333  dur   6.4s  score  92.8  level  -21.5 dBFS  peak  -4.0  SNR~22.9 dB  F0 med  157 Hz [146-187]  F0 std 2.9 st  voiced 57%  band high(>=115 Hz)
+      warnings: phrase level differs by >12 dB (possible speaker/mic change)   | speaker: NOT VERIFIED
+
+==============================================================================
+C3b. 5 LOW-LEVEL + LOW-VOICING CANDIDATES (waveform proxy for possible whisper/breathy/unvoiced material - needs listening)
+==============================================================================
+(no segment met the criteria)
+
+==============================================================================
+C4. 5 BEST LONGER CONTINUOUS CANDIDATES (40-60 s)
+==============================================================================
+ 1. 33:54.572 -> 34:35.232  dur  40.7s  score  81.2  level  -18.0 dBFS  peak  -2.4  SNR~19.3 dB  F0 med  156 Hz [138-200]  F0 std 3.6 st  voiced 53%  band high(>=115 Hz)
+      warnings: phrase level differs by >12 dB (possible speaker/mic change)   | speaker: NOT VERIFIED
+ 2. 15:02.223 -> 15:47.843  dur  45.6s  score  80.2  level  -17.5 dBFS  peak  -2.0  SNR~16.8 dB  F0 med  156 Hz [140-182]  F0 std 3.2 st  voiced 45%  band high(>=115 Hz)
+      warnings: phrase level differs by >12 dB (possible speaker/mic change)   | speaker: NOT VERIFIED
+ 3. 16:26.383 -> 17:10.173  dur  43.8s  score  79.7  level  -18.3 dBFS  peak  -3.7  SNR~18.8 dB  F0 med  160 Hz [140-186]  F0 std 2.6 st  voiced 51%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 4. 06:42.132 -> 07:22.292  dur  40.2s  score  79.0  level  -15.5 dBFS  peak  -1.3  SNR~17.8 dB  F0 med  156 Hz [140-180]  F0 std 2.1 st  voiced 52%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
+ 5. 20:11.013 -> 20:53.463  dur  42.5s  score  78.5  level  -13.2 dBFS  peak  -0.3  SNR~15.4 dB  F0 med  156 Hz [141-184]  F0 std 3.0 st  voiced 40%  band high(>=115 Hz)
+      warnings: none from automatic checks   | speaker: NOT VERIFIED
