@@ -10665,11 +10665,11 @@
       },
       {
         "subtitle_id": 120,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C003",
+        "speaker_name": "Aria",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne is narrating the dialogue."
+        "evidence": "Aria continues recounting Lucian's words; this is part of her spoken account, not Vivienne's narration."
       },
       {
         "subtitle_id": 121,
@@ -11659,7 +11659,7 @@
         "subtitle_id": 244,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
         "evidence": "Vivienne narrating her own speech act."
       },
@@ -12755,7 +12755,7 @@
         "subtitle_id": 381,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "character",
+        "speaker_type": "narrator",
         "confidence": "high",
         "evidence": "Vivienne speaking aloud."
       },
@@ -12913,11 +12913,11 @@
       },
       {
         "subtitle_id": 401,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C003",
+        "speaker_name": "Aria",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Continuation of the narrative description of past events."
+        "evidence": "Continuation of Aria's spoken sentence: 'After dad died, mom gave her a room, and let her keep it.'"
       },
       {
         "subtitle_id": 402,
@@ -13624,6 +13624,30 @@
         "evidence": "Narrator describing the behavior of the characters."
       },
       {
+        "subtitle_id": 490,
+        "speaker_id": "C009",
+        "speaker_name": "Lance Laurent",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "User verified the film audio and video: all three cues are one continuous utterance by Lance Laurent, and Lance's mouth is visibly moving during the speech."
+      },
+      {
+        "subtitle_id": 491,
+        "speaker_id": "C009",
+        "speaker_name": "Lance Laurent",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "User verified the film audio and video: all three cues are one continuous utterance by Lance Laurent, and Lance's mouth is visibly moving during the speech."
+      },
+      {
+        "subtitle_id": 492,
+        "speaker_id": "C009",
+        "speaker_name": "Lance Laurent",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "User verified the film audio and video: all three cues are one continuous utterance by Lance Laurent, and Lance's mouth is visibly moving during the speech."
+      },
+      {
         "subtitle_id": 493,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
@@ -13678,6 +13702,14 @@
         "speaker_type": "inner_monologue",
         "confidence": "high",
         "evidence": "Vivienne reflecting on the need for a plan."
+      },
+      {
+        "subtitle_id": 500,
+        "speaker_id": "C003",
+        "speaker_name": "Aria",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "Aria's brief agreement to the plan; the immediately following cue explicitly narrates 'Aria exhaled,' confirming the response is hers."
       },
       {
         "subtitle_id": 501,
@@ -14481,11 +14513,11 @@
       },
       {
         "subtitle_id": 601,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
+        "speaker_id": "C008",
+        "speaker_name": "Morgana",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne is negotiating the protection of her brother in exchange for her cooperation."
+        "evidence": "Continuation of Morgana's sentence: 'If I do this, I need him protected.'"
       },
       {
         "subtitle_id": 602,
@@ -16542,6 +16574,46 @@
         "speaker_type": "narrator",
         "confidence": "high",
         "evidence": "Vivienne is narrating the scene from her POV."
+      },
+      {
+        "subtitle_id": 859,
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "Luna is explicitly identified immediately before this uninterrupted speech: 'Luna Valeris recovered fast. Too fast.' She then addresses Vivienne by name and continues one coherent statement through cue 863."
+      },
+      {
+        "subtitle_id": 860,
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "Luna is explicitly identified immediately before this uninterrupted speech: 'Luna Valeris recovered fast. Too fast.' She then addresses Vivienne by name and continues one coherent statement through cue 863."
+      },
+      {
+        "subtitle_id": 861,
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "Luna is explicitly identified immediately before this uninterrupted speech: 'Luna Valeris recovered fast. Too fast.' She then addresses Vivienne by name and continues one coherent statement through cue 863."
+      },
+      {
+        "subtitle_id": 862,
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "Luna is explicitly identified immediately before this uninterrupted speech: 'Luna Valeris recovered fast. Too fast.' She then addresses Vivienne by name and continues one coherent statement through cue 863."
+      },
+      {
+        "subtitle_id": 863,
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "Luna is explicitly identified immediately before this uninterrupted speech: 'Luna Valeris recovered fast. Too fast.' She then addresses Vivienne by name and continues one coherent statement through cue 863."
       },
       {
         "subtitle_id": 864,
@@ -18729,19 +18801,19 @@
       },
       {
         "subtitle_id": 1137,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Aria continues speaking."
+        "evidence": "Vivienne repeats Aria's topic as a response: 'Laurent brothers,'; cue 1138 'I agreed.' is her following dialogue tag."
       },
       {
         "subtitle_id": 1138,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "character",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne responds to Aria."
+        "evidence": "First-person dialogue tag completing cue 1137: 'Laurent brothers,' I agreed."
       },
       {
         "subtitle_id": 1139,
@@ -19161,8 +19233,8 @@
       },
       {
         "subtitle_id": 1191,
-        "speaker_id": "C022",
-        "speaker_name": "Luke",
+        "speaker_id": "C010",
+        "speaker_name": "Luke Laurent",
         "speaker_type": "character",
         "confidence": "high",
         "evidence": "Direct response to Aria."
@@ -19177,24 +19249,24 @@
       },
       {
         "subtitle_id": 1193,
-        "speaker_id": "C022",
-        "speaker_name": "Luke",
+        "speaker_id": "C010",
+        "speaker_name": "Luke Laurent",
         "speaker_type": "character",
         "confidence": "high",
         "evidence": "Direct dialogue continued."
       },
       {
         "subtitle_id": 1194,
-        "speaker_id": "C022",
-        "speaker_name": "Luke",
+        "speaker_id": "C010",
+        "speaker_name": "Luke Laurent",
         "speaker_type": "character",
         "confidence": "high",
         "evidence": "Direct dialogue continued."
       },
       {
         "subtitle_id": 1195,
-        "speaker_id": "C022",
-        "speaker_name": "Luke",
+        "speaker_id": "C010",
+        "speaker_name": "Luke Laurent",
         "speaker_type": "character",
         "confidence": "high",
         "evidence": "Direct dialogue continued."
@@ -19209,8 +19281,8 @@
       },
       {
         "subtitle_id": 1197,
-        "speaker_id": "C022",
-        "speaker_name": "Luke",
+        "speaker_id": "C010",
+        "speaker_name": "Luke Laurent",
         "speaker_type": "character",
         "confidence": "high",
         "evidence": "Direct response to Aria."
@@ -19344,80 +19416,7 @@
         "evidence": "Vivienne is observing and narrating Aria's final reaction."
       }
     ],
-    "medium": [
-      {
-        "subtitle_id": 490,
-        "speaker_id": "C009",
-        "speaker_name": "Lance Laurent",
-        "speaker_type": "character",
-        "confidence": "medium",
-        "evidence": "Direct speech directed at the narrator/Vivienne."
-      },
-      {
-        "subtitle_id": 491,
-        "speaker_id": "C009",
-        "speaker_name": "Lance Laurent",
-        "speaker_type": "character",
-        "confidence": "medium",
-        "evidence": "Continuation of the direct speech."
-      },
-      {
-        "subtitle_id": 492,
-        "speaker_id": "C009",
-        "speaker_name": "Lance Laurent",
-        "speaker_type": "character",
-        "confidence": "medium",
-        "evidence": "Continuation of the direct speech."
-      },
-      {
-        "subtitle_id": 500,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
-        "confidence": "medium",
-        "evidence": "Aria agreeing to the plan."
-      },
-      {
-        "subtitle_id": 859,
-        "speaker_id": "C013",
-        "speaker_name": "Luna Valerius",
-        "speaker_type": "character",
-        "confidence": "medium",
-        "evidence": "Luna Valerius is speaking to Vivienne."
-      },
-      {
-        "subtitle_id": 860,
-        "speaker_id": "C013",
-        "speaker_name": "Luna Valerius",
-        "speaker_type": "character",
-        "confidence": "medium",
-        "evidence": "Luna Valerius is speaking to Vivienne."
-      },
-      {
-        "subtitle_id": 861,
-        "speaker_id": "C013",
-        "speaker_name": "Luna Valerius",
-        "speaker_type": "character",
-        "confidence": "medium",
-        "evidence": "Luna Valerius is speaking to Vivienne."
-      },
-      {
-        "subtitle_id": 862,
-        "speaker_id": "C013",
-        "speaker_name": "Luna Valerius",
-        "speaker_type": "character",
-        "confidence": "medium",
-        "evidence": "Luna Valerius is speaking to Vivienne."
-      },
-      {
-        "subtitle_id": 863,
-        "speaker_id": "C013",
-        "speaker_name": "Luna Valerius",
-        "speaker_type": "character",
-        "confidence": "medium",
-        "evidence": "Luna Valerius is speaking to Vivienne."
-      }
-    ],
+    "medium": [],
     "low": []
   }
 }
