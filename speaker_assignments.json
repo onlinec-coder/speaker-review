@@ -5608,17 +5608,17 @@
       "subtitle_id": 701,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrator describing how Lucian said it. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 702,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne's internal perception of the situation."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 703,
@@ -5634,7 +5634,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne speaking aloud to Lucian."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 705,
@@ -5642,71 +5642,71 @@
       "speaker_name": "Vivienne",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Continuation of Vivienne's spoken dialogue ('Don't do this')."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 706,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrative description of Lucian not answering. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 707,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrator describing the alpha aura effect. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 708,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne's internal description of her inner wolf going quiet."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 709,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne's internal thought about her arms stopping."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 710,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne's internal realization."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 711,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne's memory/internal thought about last time."
+      "evidence": "Lucian Vivienne-д шууд хандан хэлж буй үг."
     },
     {
       "subtitle_id": 712,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Continuation of Vivienne's internal thoughts."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 713,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrator describing the door opening. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 714,
@@ -5714,23 +5714,23 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Narrator describing Arya appearing. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 715,
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Lucian Vivienne-д шууд хандан хэлж буй үг."
+    },
+    {
+      "subtitle_id": 716,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Narrator describing Arya holding a silver blade. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
-    },
-    {
-      "subtitle_id": 716,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
-      "confidence": "high",
-      "evidence": "Aria speaking aloud to interrupt Lucian."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 717,
@@ -5738,31 +5738,31 @@
       "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Continuation of Aria's spoken dialogue."
+      "evidence": "Aria-ийн шууд хэлсэн үг; ярианы нэг өгүүлбэр cue-үүдэд хуваагдсан."
     },
     {
       "subtitle_id": 718,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrator describing Lucian turning his head. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Aria-ийн шууд хэлсэн үг; ярианы нэг өгүүлбэр cue-үүдэд хуваагдсан."
     },
     {
       "subtitle_id": 719,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne's internal observation of how Lucian looked at Arya."
+      "evidence": "Aria-ийн шууд хэлсэн үг; ярианы нэг өгүүлбэр cue-үүдэд хуваагдсан."
     },
     {
       "subtitle_id": 720,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrator describing Lucian's action of releasing a pulse of alpha aura. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Lucian-ийн шууд асуулт/хариулт; 726-р мөрийн 'His voice cracked' болон 732-р мөрийн 'He stopped himself' нь ярианы эзнийг батална."
     },
     {
       "subtitle_id": 721,
@@ -5770,39 +5770,39 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Гаднын байр сууринаас Arya-ийн үйлдлийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 722,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Үйл явдлын үргэлжлэлийг тайлбарласан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 723,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Үйл явдлыг хүүрнэж буй өгүүлэгчийн мөр. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 724,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Lucian-ийн үйлдлийг өгүүлж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 725,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Үйл явдлын өрнөлийг гаднаас дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Lucian-ийн шууд асуулт/хариулт; 726-р мөрийн 'His voice cracked' болон 732-р мөрийн 'He stopped himself' нь ярианы эзнийг батална."
     },
     {
       "subtitle_id": 726,
@@ -5810,7 +5810,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Arya-ийн байдлыг тайлбарласан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 727,
@@ -5818,7 +5818,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Гаднаас харж буй байдлаар дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 728,
@@ -5826,31 +5826,31 @@
       "speaker_name": "Vivienne",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "722–724-р мөрүүдэд Vivienne Lucian-д шууд хариулж байна; 725-р мөрийн 'What choices?' болон 726-р мөрийн 'His voice cracked' нь Lucian-ийн асуултыг зааж, 728-р мөрийн 'You signed a contract with someone else' нь Vivienne-ийн хариу болж байна."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 729,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Үйл явдлын тайлбар хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Lucian-ийн шууд асуулт/хариулт; 726-р мөрийн 'His voice cracked' болон 732-р мөрийн 'He stopped himself' нь ярианы эзнийг батална."
     },
     {
       "subtitle_id": 730,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Орчин нөхцөлийг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Lucian-ийн шууд асуулт/хариулт; 726-р мөрийн 'His voice cracked' болон 732-р мөрийн 'He stopped himself' нь ярианы эзнийг батална."
     },
     {
       "subtitle_id": 731,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Дуу чимээ, үйл явдлыг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Lucian-ийн шууд асуулт/хариулт; 726-р мөрийн 'His voice cracked' болон 732-р мөрийн 'He stopped himself' нь ярианы эзнийг батална."
     },
     {
       "subtitle_id": 732,
@@ -5858,7 +5858,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Chief Elder Laurent орж ирж буйг тайлбарласан. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 733,
@@ -5866,55 +5866,55 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Өгүүлэгчийн нүдээр үйл явдлыг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 734,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Өгүүлэгчийн байр суурийг харуулсан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 735,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Үйл явдлын үргэлжлэл тайлбар. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 736,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Lucian-ийн байрлалыг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 737,
-      "speaker_id": "C014",
-      "speaker_name": "Chief Elder Laurent",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Chief Elder Laurent-ийн хэлж буй шууд яриа."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 738,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Ярианы хэв маягийг тайлбарласан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 739,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Lucian-ийн хариу үйлдлийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 740,
@@ -5922,7 +5922,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Өрөөний уур амьсгал, үйл явдлыг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 741,
@@ -5930,7 +5930,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Үйл явдлын дараагийн алхмыг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 742,
@@ -5938,7 +5938,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Laurent-ийн хөдөлгөөнийг тайлбарласан. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 743,
@@ -5946,7 +5946,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Шинэ дүр гарч ирж буйг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 744,
@@ -5954,7 +5954,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Дүрийн гадаад төрхийг дүрсэлсэн. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 745,
@@ -5962,7 +5962,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Royal seer-ийг танилцуулж буй хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 746,
@@ -5970,7 +5970,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Дүрийн албан тушаалыг тайлбарласан. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 747,
@@ -5978,7 +5978,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Өмнөх түүхийг товч дурдсан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 748,
@@ -5986,55 +5986,55 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "POV дүрийн биеийн хөдөлгөөнийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 749,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C013",
+      "speaker_name": "Luna Valerius",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Laurent-ийн үйлдлийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
     },
     {
       "subtitle_id": 750,
-      "speaker_id": "C014",
-      "speaker_name": "Chief Elder Laurent",
+      "speaker_id": "C013",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Chief Elder Laurent-ийн яриа эхэлж байна."
+      "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
     },
     {
       "subtitle_id": 751,
-      "speaker_id": "C014",
-      "speaker_name": "Chief Elder Laurent",
-      "speaker_type": "character",
-      "confidence": "high",
-      "evidence": "Laurent-ийн ярианы үргэлжлэл."
-    },
-    {
-      "subtitle_id": 752,
-      "speaker_id": "C014",
-      "speaker_name": "Chief Elder Laurent",
-      "speaker_type": "character",
-      "confidence": "high",
-      "evidence": "Laurent-ийн яриа."
-    },
-    {
-      "subtitle_id": 753,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Ярианы завсар гарсан үйлдлийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
+    },
+    {
+      "subtitle_id": 752,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
+    },
+    {
+      "subtitle_id": 753,
+      "speaker_id": "C013",
+      "speaker_name": "Luna Valerius",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
     },
     {
       "subtitle_id": 754,
-      "speaker_id": "C014",
-      "speaker_name": "Chief Elder Laurent",
+      "speaker_id": "C013",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Laurent-ийн яриа үргэлжилж байна."
+      "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
     },
     {
       "subtitle_id": 755,
@@ -6042,15 +6042,15 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Ярианы завсарлагааныг тайлбарласан. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 756,
-      "speaker_id": "C014",
-      "speaker_name": "Chief Elder Laurent",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Laurent-ийн ярианы төгсгөл хэсэг."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 757,
@@ -6058,15 +6058,15 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Lucian-ийн харц өөрчлөгдсөнийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 758,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Дүрийн царайны хувирлыг тайлбарласан. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 759,
@@ -6074,79 +6074,79 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Laurent дахин ярьж эхэлж буйг хүүрнэсэн. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 760,
-      "speaker_id": "C014",
-      "speaker_name": "Chief Elder Laurent",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Chief Elder Laurent-ийн шууд яриа."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 761,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C013",
+      "speaker_name": "Luna Valerius",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Гаднын байр сууринаас үйл явдал, гэрээний нөхцөлийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
     },
     {
       "subtitle_id": 762,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C013",
+      "speaker_name": "Luna Valerius",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Дүрийн харц болон үйл хөдлөлийг тайлбарласан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
     },
     {
       "subtitle_id": 763,
-      "speaker_id": "C014",
-      "speaker_name": "Chief Elder Laurent",
+      "speaker_id": "C013",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Өмнөх контекст дэх Laurent-ийн ярианы үргэлжлэл бөгөөд шууд яриа юм."
+      "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
     },
     {
       "subtitle_id": 764,
-      "speaker_id": "C014",
-      "speaker_name": "Chief Elder Laurent",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Laurent-ийн ярианы үргэлжлэл."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 765,
-      "speaker_id": "C014",
-      "speaker_name": "Chief Elder Laurent",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Laurent-ийн ярианы үргэлжлэл."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 766,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Ярианы хоорондох нөхцөл байдлыг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 767,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Гол дүрийн (POV) тухайн үед хаалганы гадаа байсан тухай өөрийн мэдрэмж, дурсамж."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 768,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Гол дүрийн дотоод бодол."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 769,
@@ -6154,7 +6154,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Өрөөний ерөнхий байдлыг дүрсэлсэн гаднын хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 770,
@@ -6162,15 +6162,15 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Lucian юу ч хэлээгүйг дүрсэлсэн хүүрнэл; Chief Elder-ийн яриа биш. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 771,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Яригчийг зааж буй хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 772,
@@ -6178,15 +6178,15 @@
       "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Laurent-ийн ярианы үргэлжлэл."
+      "evidence": "'I declined' гэдэг нь гэрээний саналыг өөрөө татгалзсан Chief Elder Laurent-ийн шууд хариулт."
     },
     {
       "subtitle_id": 773,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Дүрүүдийн харц солилцож буйг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 774,
@@ -6194,39 +6194,39 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 775,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 776,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Alpha Valeris-ийн дотоод байдлыг гаднаас нь дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 777,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Үйл явдлын өрнөлийг харуулсан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 778,
-      "speaker_id": "C019",
-      "speaker_name": "The royal seer",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "The royal seer-ийн шууд яриа."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 779,
@@ -6234,47 +6234,47 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 780,
-      "speaker_id": "C019",
-      "speaker_name": "The royal seer",
+      "speaker_id": "C013",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "The royal seer-ийн ярианы үргэлжлэл."
+      "evidence": "Luna Valerius-ийн эсэргүүцсэн шууд яриа; 'That's not what the servants said...' гэсэн өгүүлбэр cue-үүдэд тасарсан."
     },
     {
       "subtitle_id": 781,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C013",
+      "speaker_name": "Luna Valerius",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Lucian-ий үйлдлийг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Luna Valerius-ийн эсэргүүцсэн шууд яриа; 'That's not what the servants said...' гэсэн өгүүлбэр cue-үүдэд тасарсан."
     },
     {
       "subtitle_id": 782,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 783,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 784,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 785,
@@ -6282,7 +6282,7 @@
       "speaker_name": "Lucian",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Lucian-ий Vivienne руу хандаж хэлсэн яриа."
+      "evidence": "Lucian-ийн Morgana-гийн тухай шууд тайлбар."
     },
     {
       "subtitle_id": 786,
@@ -6290,15 +6290,15 @@
       "speaker_name": "Lucian",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Lucian-ий ярианы үргэлжлэл."
+      "evidence": "Lucian-ийн Morgana-гийн тухай шууд тайлбар."
     },
     {
       "subtitle_id": 787,
-      "speaker_id": "C002",
-      "speaker_name": "Lucian",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Lucian-ий ярианы үргэлжлэл."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 788,
@@ -6306,7 +6306,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "inner_monologue",
       "confidence": "high",
-      "evidence": "Гол дүрийн тухайн үеийн бодол, хариу үйлдэл."
+      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
     },
     {
       "subtitle_id": 789,
@@ -6314,7 +6314,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "inner_monologue",
       "confidence": "high",
-      "evidence": "Гол дүрийн дотоод бодол, Lucian-ий тухай өгүүлж буй субъектив үнэлгээ."
+      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
     },
     {
       "subtitle_id": 790,
@@ -6322,7 +6322,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "inner_monologue",
       "confidence": "high",
-      "evidence": "Дотоод бодлын үргэлжлэл."
+      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
     },
     {
       "subtitle_id": 791,
@@ -6330,7 +6330,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "inner_monologue",
       "confidence": "high",
-      "evidence": "Дотоод бодлын үргэлжлэл."
+      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
     },
     {
       "subtitle_id": 792,
@@ -6338,7 +6338,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "inner_monologue",
       "confidence": "high",
-      "evidence": "Дотоод бодлын үргэлжлэл."
+      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
     },
     {
       "subtitle_id": 793,
@@ -6346,7 +6346,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "inner_monologue",
       "confidence": "high",
-      "evidence": "Гол дүрийн эцсийн шийдвэр, дотоод бодол."
+      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
     },
     {
       "subtitle_id": 794,
@@ -6354,7 +6354,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Laurent-ий үйлдлийг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 795,
@@ -6362,15 +6362,15 @@
       "speaker_name": "Vivienne",
       "speaker_type": "inner_monologue",
       "confidence": "high",
-      "evidence": "Гол дүрийн өөрийн биеэр хийсэн үйлдлийг хүүрнэсэн дотоод өгүүлэмж (POV)."
+      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
     },
     {
       "subtitle_id": 796,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Arya-ийн гарч ирснийг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
     },
     {
       "subtitle_id": 797,
@@ -6378,7 +6378,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 798,
@@ -6386,15 +6386,15 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 799,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Luna Valerius уйлж эхэлснийг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
     },
     {
       "subtitle_id": 800,
@@ -6402,23 +6402,23 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Alpha Valerius-ийн байдлыг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 801,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Continuation of external description of Alpha Valerius from previous context. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
     },
     {
       "subtitle_id": 802,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrating Lucian's actions and the guards' movements from the POV narrator. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Lucian-ийн шууд тайлбар; 803–804-р мөрийн 'Lucian stopped, started again' гэсэн хүүрнэлээр баталгаажна."
     },
     {
       "subtitle_id": 803,
@@ -6426,7 +6426,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Narratorial observation of the scene. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 804,
@@ -6434,39 +6434,39 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Narrating characters being walked out. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 805,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrating Lucian's behavior. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Lucian-ийн шууд тайлбар; 803–804-р мөрийн 'Lucian stopped, started again' гэсэн хүүрнэлээр баталгаажна."
     },
     {
       "subtitle_id": 806,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrator describing the speed of the verdict. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Lucian-ийн шууд тайлбар; 803–804-р мөрийн 'Lucian stopped, started again' гэсэн хүүрнэлээр баталгаажна."
     },
     {
       "subtitle_id": 807,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrator listing the verdict details. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Lucian-ийн шууд тайлбар; 803–804-р мөрийн 'Lucian stopped, started again' гэсэн хүүрнэлээр баталгаажна."
     },
     {
       "subtitle_id": 808,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrator describing the sentence. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 809,
@@ -6474,7 +6474,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Narrator describing the sentencing conditions. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 810,
@@ -6482,7 +6482,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Narrator describing the verdict details. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 811,
@@ -6490,39 +6490,39 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Narrator describing other sentenced individuals. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 812,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrating the charges. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 813,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Continuation of charges description. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 814,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrating the legal consequences. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 815,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrating the pact dissolution. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 816,
@@ -6530,207 +6530,207 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Narrating asset seizure. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 817,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Narrating the timeline of events. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 818,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "First-person narrative recounting events from Vivienne's POV, continuing from previous context where Arya approached 'my' side."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 819,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Continuing Vivienne's first-person recollection of Arya sitting beside her."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 820,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne's internal narrative pacing the dialogue."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 821,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Aria starts speaking, bringing up Morgana as established by subsequent dialogue context."
+      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
     },
     {
       "subtitle_id": 822,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne's internal reaction ('I looked up')."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 823,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Aria continuing her dialogue about Morgana's status."
+      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
     },
     {
       "subtitle_id": 824,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Aria continuing reporting Morgana's situation."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 825,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Aria continuing dialogue."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 826,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Aria continuing dialogue about Morgana."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 827,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne noting Aria's pause in conversation."
+      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
     },
     {
       "subtitle_id": 828,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Aria addressing Vivienne by her alias/name 'Viviana'."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 829,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Aria continuing her speech."
+      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
     },
     {
       "subtitle_id": 830,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Aria finishing her point about the painting."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 831,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne's internal thought response ('I didn't say anything')."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 832,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Aria asking Vivienne a question."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 833,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "character",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne answering Aria's question out loud ('No.')."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 834,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne's internal reflection on her feelings."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 835,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne evaluating Morgana's past actions internally."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 836,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne's internal monologue detailing past grievances."
+      "evidence": "836-р мөрийн 'You didn't have to do this' нь Lucian-ийн шууд яриа; 837-р мөрийн 'he said quietly' батална."
     },
     {
       "subtitle_id": 837,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Continuation of Vivienne's internal reflection regarding the poisoning and mutilation."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 838,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne's internal judgment of Morgana."
+      "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
     },
     {
       "subtitle_id": 839,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne's internal reflection on choices and consequences."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 840,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Conclusion of Vivienne's internal monologue before the conversation resumes in the next context."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 841,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Контекстийн үргэлжлэл бөгөөд Vivienne-ийн өөрийн бодол, дүгнэлтийг илэрхийлж байна."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 842,
@@ -6738,7 +6738,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Гаднаас үйл явдлыг өгүүлж буй хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 843,
@@ -6746,23 +6746,23 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Arya-гийн үйлдлийг гаднаас тайлбарласан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 844,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Arya straightened up хийсний дараах яриа."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 845,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Arya-гийн ярианы үргэлжлэл."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 846,
@@ -6770,7 +6770,7 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "845-р мөрийн 'He cleared his throat' үйлдлийн дараах шууд хандалт; Alpha Valeris ярьж байна."
+      "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
     },
     {
       "subtitle_id": 847,
@@ -6778,7 +6778,7 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "846-р мөрөнд эхэлсэн Alpha Valeris-ийн шууд ярианы үргэлжлэл."
+      "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
     },
     {
       "subtitle_id": 848,
@@ -6786,15 +6786,15 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "846-р мөрөнд эхэлсэн Alpha Valeris-ийн шууд яриа; 849-р мөрөнд 'He glanced at his wife' гэж хүүрнэсэн."
+      "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
     },
     {
       "subtitle_id": 849,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne-ийн дотоод үнэлгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 850,
@@ -6802,7 +6802,7 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "849-р мөрийн 'He glanced at his wife' үйлдлийн дараах Alpha Valeris-ийн шууд яриа."
+      "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
     },
     {
       "subtitle_id": 851,
@@ -6810,7 +6810,7 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "850-р мөрөөс үргэлжилсэн Alpha Valeris-ийн шууд яриа."
+      "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
     },
     {
       "subtitle_id": 852,
@@ -6818,7 +6818,7 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "850-р мөрөөс үргэлжилсэн Alpha Valeris-ийн шууд яриа."
+      "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
     },
     {
       "subtitle_id": 853,
@@ -6826,7 +6826,7 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "850-р мөрөөс үргэлжилсэн Alpha Valeris-ийн шууд яриа."
+      "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
     },
     {
       "subtitle_id": 854,
@@ -6834,7 +6834,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Alpha Valeris-ийн инээмсэглэх оролдлогыг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 855,
@@ -6842,15 +6842,15 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "854-р мөрийн 'He tried for a reasonable smile' үйлдлийн дараах Alpha Valeris-ийн шууд яриа."
+      "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
     },
     {
       "subtitle_id": 856,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "POV дүрийн дотоод завсарлага."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 857,
@@ -6858,7 +6858,7 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Luna Valeris-ийн хурдан эдгэрснийг дүрсэлсэн Vivienne-ийн POV хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 858,
@@ -6866,23 +6866,23 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Arya-гийн үйлдлийг харуулсан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
     },
     {
       "subtitle_id": 859,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
+      "speaker_id": "C013",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Arya-гийн асууж буй шууд яриа."
+      "evidence": "Luna Valerius-ийн Vivienne-д хандсан шууд яриа; өмнөх өгүүлэмжид Luna хурдан сэргэж, яриагаа үргэлжлүүлж байна."
     },
     {
       "subtitle_id": 860,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
+      "speaker_id": "C013",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne-ийн хариулт."
+      "evidence": "Luna Valerius-ийн Vivienne-д хандсан шууд яриа; өмнөх өгүүлэмжид Luna хурдан сэргэж, яриагаа үргэлжлүүлж байна."
     },
     {
       "subtitle_id": 861,
@@ -12731,17 +12731,17 @@
         "subtitle_id": 701,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrator describing how Lucian said it. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 702,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne's internal perception of the situation."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 703,
@@ -12757,7 +12757,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne speaking aloud to Lucian."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 705,
@@ -12765,71 +12765,71 @@
         "speaker_name": "Vivienne",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Continuation of Vivienne's spoken dialogue ('Don't do this')."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 706,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrative description of Lucian not answering. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 707,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrator describing the alpha aura effect. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 708,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne's internal description of her inner wolf going quiet."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 709,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne's internal thought about her arms stopping."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 710,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne's internal realization."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 711,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne's memory/internal thought about last time."
+        "evidence": "Lucian Vivienne-д шууд хандан хэлж буй үг."
       },
       {
         "subtitle_id": 712,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Continuation of Vivienne's internal thoughts."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 713,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrator describing the door opening. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 714,
@@ -12837,23 +12837,23 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Narrator describing Arya appearing. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 715,
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "Lucian Vivienne-д шууд хандан хэлж буй үг."
+      },
+      {
+        "subtitle_id": 716,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Narrator describing Arya holding a silver blade. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
-      },
-      {
-        "subtitle_id": 716,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
-        "confidence": "high",
-        "evidence": "Aria speaking aloud to interrupt Lucian."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 717,
@@ -12861,31 +12861,31 @@
         "speaker_name": "Aria",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Continuation of Aria's spoken dialogue."
+        "evidence": "Aria-ийн шууд хэлсэн үг; ярианы нэг өгүүлбэр cue-үүдэд хуваагдсан."
       },
       {
         "subtitle_id": 718,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C003",
+        "speaker_name": "Aria",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrator describing Lucian turning his head. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Aria-ийн шууд хэлсэн үг; ярианы нэг өгүүлбэр cue-үүдэд хуваагдсан."
       },
       {
         "subtitle_id": 719,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_id": "C003",
+        "speaker_name": "Aria",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne's internal observation of how Lucian looked at Arya."
+        "evidence": "Aria-ийн шууд хэлсэн үг; ярианы нэг өгүүлбэр cue-үүдэд хуваагдсан."
       },
       {
         "subtitle_id": 720,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrator describing Lucian's action of releasing a pulse of alpha aura. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Lucian-ийн шууд асуулт/хариулт; 726-р мөрийн 'His voice cracked' болон 732-р мөрийн 'He stopped himself' нь ярианы эзнийг батална."
       },
       {
         "subtitle_id": 721,
@@ -12893,39 +12893,39 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Гаднын байр сууринаас Arya-ийн үйлдлийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 722,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Үйл явдлын үргэлжлэлийг тайлбарласан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 723,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Үйл явдлыг хүүрнэж буй өгүүлэгчийн мөр. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 724,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Lucian-ийн үйлдлийг өгүүлж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 725,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Үйл явдлын өрнөлийг гаднаас дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Lucian-ийн шууд асуулт/хариулт; 726-р мөрийн 'His voice cracked' болон 732-р мөрийн 'He stopped himself' нь ярианы эзнийг батална."
       },
       {
         "subtitle_id": 726,
@@ -12933,7 +12933,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Arya-ийн байдлыг тайлбарласан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 727,
@@ -12941,31 +12941,31 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Гаднаас харж буй байдлаар дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 729,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Үйл явдлын тайлбар хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Lucian-ийн шууд асуулт/хариулт; 726-р мөрийн 'His voice cracked' болон 732-р мөрийн 'He stopped himself' нь ярианы эзнийг батална."
       },
       {
         "subtitle_id": 730,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Орчин нөхцөлийг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Lucian-ийн шууд асуулт/хариулт; 726-р мөрийн 'His voice cracked' болон 732-р мөрийн 'He stopped himself' нь ярианы эзнийг батална."
       },
       {
         "subtitle_id": 731,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Дуу чимээ, үйл явдлыг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Lucian-ийн шууд асуулт/хариулт; 726-р мөрийн 'His voice cracked' болон 732-р мөрийн 'He stopped himself' нь ярианы эзнийг батална."
       },
       {
         "subtitle_id": 732,
@@ -12973,7 +12973,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Chief Elder Laurent орж ирж буйг тайлбарласан. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 733,
@@ -12981,55 +12981,55 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Өгүүлэгчийн нүдээр үйл явдлыг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 734,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Өгүүлэгчийн байр суурийг харуулсан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 735,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Үйл явдлын үргэлжлэл тайлбар. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 736,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Lucian-ийн байрлалыг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 737,
-        "speaker_id": "C014",
-        "speaker_name": "Chief Elder Laurent",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Chief Elder Laurent-ийн хэлж буй шууд яриа."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 738,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Ярианы хэв маягийг тайлбарласан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 739,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Lucian-ийн хариу үйлдлийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 740,
@@ -13037,7 +13037,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Өрөөний уур амьсгал, үйл явдлыг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 741,
@@ -13045,7 +13045,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Үйл явдлын дараагийн алхмыг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 742,
@@ -13053,7 +13053,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Laurent-ийн хөдөлгөөнийг тайлбарласан. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 743,
@@ -13061,7 +13061,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Шинэ дүр гарч ирж буйг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 744,
@@ -13069,7 +13069,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Дүрийн гадаад төрхийг дүрсэлсэн. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 745,
@@ -13077,7 +13077,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Royal seer-ийг танилцуулж буй хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 746,
@@ -13085,7 +13085,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Дүрийн албан тушаалыг тайлбарласан. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 747,
@@ -13093,7 +13093,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Өмнөх түүхийг товч дурдсан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 748,
@@ -13101,55 +13101,55 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "POV дүрийн биеийн хөдөлгөөнийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 749,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Laurent-ийн үйлдлийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
       },
       {
         "subtitle_id": 750,
-        "speaker_id": "C014",
-        "speaker_name": "Chief Elder Laurent",
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Chief Elder Laurent-ийн яриа эхэлж байна."
+        "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
       },
       {
         "subtitle_id": 751,
-        "speaker_id": "C014",
-        "speaker_name": "Chief Elder Laurent",
-        "speaker_type": "character",
-        "confidence": "high",
-        "evidence": "Laurent-ийн ярианы үргэлжлэл."
-      },
-      {
-        "subtitle_id": 752,
-        "speaker_id": "C014",
-        "speaker_name": "Chief Elder Laurent",
-        "speaker_type": "character",
-        "confidence": "high",
-        "evidence": "Laurent-ийн яриа."
-      },
-      {
-        "subtitle_id": 753,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Ярианы завсар гарсан үйлдлийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
+      },
+      {
+        "subtitle_id": 752,
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
+        "confidence": "high",
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
+      },
+      {
+        "subtitle_id": 753,
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
       },
       {
         "subtitle_id": 754,
-        "speaker_id": "C014",
-        "speaker_name": "Chief Elder Laurent",
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Laurent-ийн яриа үргэлжилж байна."
+        "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
       },
       {
         "subtitle_id": 755,
@@ -13157,15 +13157,15 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Ярианы завсарлагааныг тайлбарласан. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 756,
-        "speaker_id": "C014",
-        "speaker_name": "Chief Elder Laurent",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Laurent-ийн ярианы төгсгөл хэсэг."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 757,
@@ -13173,15 +13173,15 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Lucian-ийн харц өөрчлөгдсөнийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 758,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Дүрийн царайны хувирлыг тайлбарласан. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 759,
@@ -13189,79 +13189,79 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Laurent дахин ярьж эхэлж буйг хүүрнэсэн. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 760,
-        "speaker_id": "C014",
-        "speaker_name": "Chief Elder Laurent",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Chief Elder Laurent-ийн шууд яриа."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 761,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Гаднын байр сууринаас үйл явдал, гэрээний нөхцөлийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
       },
       {
         "subtitle_id": 762,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Дүрийн харц болон үйл хөдлөлийг тайлбарласан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
       },
       {
         "subtitle_id": 763,
-        "speaker_id": "C014",
-        "speaker_name": "Chief Elder Laurent",
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Өмнөх контекст дэх Laurent-ийн ярианы үргэлжлэл бөгөөд шууд яриа юм."
+        "evidence": "Luna Valerius Vivienne-д хандаж буй шууд яриа; 747–748-р мөрөнд Luna түүн рүү яарсан гэж өгүүлсэн."
       },
       {
         "subtitle_id": 764,
-        "speaker_id": "C014",
-        "speaker_name": "Chief Elder Laurent",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Laurent-ийн ярианы үргэлжлэл."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 765,
-        "speaker_id": "C014",
-        "speaker_name": "Chief Elder Laurent",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Laurent-ийн ярианы үргэлжлэл."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 766,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Ярианы хоорондох нөхцөл байдлыг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 767,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Гол дүрийн (POV) тухайн үед хаалганы гадаа байсан тухай өөрийн мэдрэмж, дурсамж."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 768,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Гол дүрийн дотоод бодол."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 769,
@@ -13269,15 +13269,15 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Өрөөний ерөнхий байдлыг дүрсэлсэн гаднын хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 771,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Яригчийг зааж буй хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 772,
@@ -13285,15 +13285,15 @@
         "speaker_name": "Chief Elder Laurent",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Laurent-ийн ярианы үргэлжлэл."
+        "evidence": "'I declined' гэдэг нь гэрээний саналыг өөрөө татгалзсан Chief Elder Laurent-ийн шууд хариулт."
       },
       {
         "subtitle_id": 773,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Дүрүүдийн харц солилцож буйг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 774,
@@ -13301,39 +13301,39 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 775,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 776,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Alpha Valeris-ийн дотоод байдлыг гаднаас нь дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 777,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Үйл явдлын өрнөлийг харуулсан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 778,
-        "speaker_id": "C019",
-        "speaker_name": "The royal seer",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "The royal seer-ийн шууд яриа."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 779,
@@ -13341,47 +13341,47 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 780,
-        "speaker_id": "C019",
-        "speaker_name": "The royal seer",
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "The royal seer-ийн ярианы үргэлжлэл."
+        "evidence": "Luna Valerius-ийн эсэргүүцсэн шууд яриа; 'That's not what the servants said...' гэсэн өгүүлбэр cue-үүдэд тасарсан."
       },
       {
         "subtitle_id": 781,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Lucian-ий үйлдлийг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Luna Valerius-ийн эсэргүүцсэн шууд яриа; 'That's not what the servants said...' гэсэн өгүүлбэр cue-үүдэд тасарсан."
       },
       {
         "subtitle_id": 782,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 783,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 784,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 785,
@@ -13389,7 +13389,7 @@
         "speaker_name": "Lucian",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Lucian-ий Vivienne руу хандаж хэлсэн яриа."
+        "evidence": "Lucian-ийн Morgana-гийн тухай шууд тайлбар."
       },
       {
         "subtitle_id": 786,
@@ -13397,15 +13397,15 @@
         "speaker_name": "Lucian",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Lucian-ий ярианы үргэлжлэл."
+        "evidence": "Lucian-ийн Morgana-гийн тухай шууд тайлбар."
       },
       {
         "subtitle_id": 787,
-        "speaker_id": "C002",
-        "speaker_name": "Lucian",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Lucian-ий ярианы үргэлжлэл."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 788,
@@ -13413,7 +13413,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "inner_monologue",
         "confidence": "high",
-        "evidence": "Гол дүрийн тухайн үеийн бодол, хариу үйлдэл."
+        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
       },
       {
         "subtitle_id": 789,
@@ -13421,7 +13421,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "inner_monologue",
         "confidence": "high",
-        "evidence": "Гол дүрийн дотоод бодол, Lucian-ий тухай өгүүлж буй субъектив үнэлгээ."
+        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
       },
       {
         "subtitle_id": 790,
@@ -13429,7 +13429,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "inner_monologue",
         "confidence": "high",
-        "evidence": "Дотоод бодлын үргэлжлэл."
+        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
       },
       {
         "subtitle_id": 791,
@@ -13437,7 +13437,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "inner_monologue",
         "confidence": "high",
-        "evidence": "Дотоод бодлын үргэлжлэл."
+        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
       },
       {
         "subtitle_id": 792,
@@ -13445,7 +13445,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "inner_monologue",
         "confidence": "high",
-        "evidence": "Дотоод бодлын үргэлжлэл."
+        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
       },
       {
         "subtitle_id": 793,
@@ -13453,7 +13453,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "inner_monologue",
         "confidence": "high",
-        "evidence": "Гол дүрийн эцсийн шийдвэр, дотоод бодол."
+        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
       },
       {
         "subtitle_id": 794,
@@ -13461,7 +13461,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Laurent-ий үйлдлийг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 795,
@@ -13469,15 +13469,15 @@
         "speaker_name": "Vivienne",
         "speaker_type": "inner_monologue",
         "confidence": "high",
-        "evidence": "Гол дүрийн өөрийн биеэр хийсэн үйлдлийг хүүрнэсэн дотоод өгүүлэмж (POV)."
+        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
       },
       {
         "subtitle_id": 796,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Arya-ийн гарч ирснийг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
       },
       {
         "subtitle_id": 797,
@@ -13485,7 +13485,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 798,
@@ -13493,15 +13493,15 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 799,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Luna Valerius уйлж эхэлснийг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
       },
       {
         "subtitle_id": 800,
@@ -13509,23 +13509,23 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Alpha Valerius-ийн байдлыг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 801,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Continuation of external description of Alpha Valerius from previous context. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
       },
       {
         "subtitle_id": 802,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrating Lucian's actions and the guards' movements from the POV narrator. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Lucian-ийн шууд тайлбар; 803–804-р мөрийн 'Lucian stopped, started again' гэсэн хүүрнэлээр баталгаажна."
       },
       {
         "subtitle_id": 803,
@@ -13533,7 +13533,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Narratorial observation of the scene. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 804,
@@ -13541,39 +13541,39 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Narrating characters being walked out. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 805,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrating Lucian's behavior. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Lucian-ийн шууд тайлбар; 803–804-р мөрийн 'Lucian stopped, started again' гэсэн хүүрнэлээр баталгаажна."
       },
       {
         "subtitle_id": 806,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrator describing the speed of the verdict. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Lucian-ийн шууд тайлбар; 803–804-р мөрийн 'Lucian stopped, started again' гэсэн хүүрнэлээр баталгаажна."
       },
       {
         "subtitle_id": 807,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrator listing the verdict details. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Lucian-ийн шууд тайлбар; 803–804-р мөрийн 'Lucian stopped, started again' гэсэн хүүрнэлээр баталгаажна."
       },
       {
         "subtitle_id": 808,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrator describing the sentence. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 809,
@@ -13581,7 +13581,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Narrator describing the sentencing conditions. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 810,
@@ -13589,7 +13589,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Narrator describing the verdict details. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 811,
@@ -13597,39 +13597,39 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Narrator describing other sentenced individuals. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 812,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrating the charges. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 813,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Continuation of charges description. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 814,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrating the legal consequences. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 815,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrating the pact dissolution. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 816,
@@ -13637,207 +13637,207 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Narrating asset seizure. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 817,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Narrating the timeline of events. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 818,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "First-person narrative recounting events from Vivienne's POV, continuing from previous context where Arya approached 'my' side."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 819,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Continuing Vivienne's first-person recollection of Arya sitting beside her."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 820,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne's internal narrative pacing the dialogue."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 821,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Aria starts speaking, bringing up Morgana as established by subsequent dialogue context."
+        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
       },
       {
         "subtitle_id": 822,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne's internal reaction ('I looked up')."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 823,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Aria continuing her dialogue about Morgana's status."
+        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
       },
       {
         "subtitle_id": 824,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Aria continuing reporting Morgana's situation."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 825,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Aria continuing dialogue."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 826,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Aria continuing dialogue about Morgana."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 827,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne noting Aria's pause in conversation."
+        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
       },
       {
         "subtitle_id": 828,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Aria addressing Vivienne by her alias/name 'Viviana'."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 829,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Aria continuing her speech."
+        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
       },
       {
         "subtitle_id": 830,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Aria finishing her point about the painting."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 831,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne's internal thought response ('I didn't say anything')."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 832,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Aria asking Vivienne a question."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 833,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "character",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne answering Aria's question out loud ('No.')."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 834,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne's internal reflection on her feelings."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 835,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne evaluating Morgana's past actions internally."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 836,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne's internal monologue detailing past grievances."
+        "evidence": "836-р мөрийн 'You didn't have to do this' нь Lucian-ийн шууд яриа; 837-р мөрийн 'he said quietly' батална."
       },
       {
         "subtitle_id": 837,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Continuation of Vivienne's internal reflection regarding the poisoning and mutilation."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 838,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne's internal judgment of Morgana."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 839,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne's internal reflection on choices and consequences."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 840,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Conclusion of Vivienne's internal monologue before the conversation resumes in the next context."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 841,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Контекстийн үргэлжлэл бөгөөд Vivienne-ийн өөрийн бодол, дүгнэлтийг илэрхийлж байна."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 842,
@@ -13845,7 +13845,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Гаднаас үйл явдлыг өгүүлж буй хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 843,
@@ -13853,23 +13853,23 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Arya-гийн үйлдлийг гаднаас тайлбарласан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 844,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Arya straightened up хийсний дараах яриа."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 845,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Arya-гийн ярианы үргэлжлэл."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 847,
@@ -13877,7 +13877,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "846-р мөрөнд эхэлсэн Alpha Valeris-ийн шууд ярианы үргэлжлэл."
+        "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
       },
       {
         "subtitle_id": 848,
@@ -13885,23 +13885,23 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "846-р мөрөнд эхэлсэн Alpha Valeris-ийн шууд яриа; 849-р мөрөнд 'He glanced at his wife' гэж хүүрнэсэн."
+        "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
       },
       {
         "subtitle_id": 849,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne-ийн дотоод үнэлгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 856,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "POV дүрийн дотоод завсарлага."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 858,
@@ -13909,23 +13909,23 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Arya-гийн үйлдлийг харуулсан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 859,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Arya-гийн асууж буй шууд яриа."
+        "evidence": "Luna Valerius-ийн Vivienne-д хандсан шууд яриа; өмнөх өгүүлэмжид Luna хурдан сэргэж, яриагаа үргэлжлүүлж байна."
       },
       {
         "subtitle_id": 860,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
+        "speaker_id": "C013",
+        "speaker_name": "Luna Valerius",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne-ийн хариулт."
+        "evidence": "Luna Valerius-ийн Vivienne-д хандсан шууд яриа; өмнөх өгүүлэмжид Luna хурдан сэргэж, яриагаа үргэлжлүүлж байна."
       },
       {
         "subtitle_id": 861,
@@ -14463,7 +14463,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "722–724-р мөрүүдэд Vivienne Lucian-д шууд хариулж байна; 725-р мөрийн 'What choices?' болон 726-р мөрийн 'His voice cracked' нь Lucian-ийн асуултыг зааж, 728-р мөрийн 'You signed a contract with someone else' нь Vivienne-ийн хариу болж байна."
+        "evidence": "Vivienne-ийн шууд хэлсэн үг; ойр орчмын ярианы ээлж болон өгүүлэмжийн контекстээр баталгаажсан."
       },
       {
         "subtitle_id": 770,
@@ -14471,7 +14471,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Lucian юу ч хэлээгүйг дүрсэлсэн хүүрнэл; Chief Elder-ийн яриа биш. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 846,
@@ -14479,7 +14479,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "845-р мөрийн 'He cleared his throat' үйлдлийн дараах шууд хандалт; Alpha Valeris ярьж байна."
+        "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
       },
       {
         "subtitle_id": 850,
@@ -14487,7 +14487,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "849-р мөрийн 'He glanced at his wife' үйлдлийн дараах Alpha Valeris-ийн шууд яриа."
+        "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
       },
       {
         "subtitle_id": 851,
@@ -14495,7 +14495,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "850-р мөрөөс үргэлжилсэн Alpha Valeris-ийн шууд яриа."
+        "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
       },
       {
         "subtitle_id": 852,
@@ -14503,7 +14503,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "850-р мөрөөс үргэлжилсэн Alpha Valeris-ийн шууд яриа."
+        "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
       },
       {
         "subtitle_id": 853,
@@ -14511,7 +14511,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "850-р мөрөөс үргэлжилсэн Alpha Valeris-ийн шууд яриа."
+        "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
       },
       {
         "subtitle_id": 854,
@@ -14519,7 +14519,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Alpha Valeris-ийн инээмсэглэх оролдлогыг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       },
       {
         "subtitle_id": 855,
@@ -14527,7 +14527,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "854-р мөрийн 'He tried for a reasonable smile' үйлдлийн дараах Alpha Valeris-ийн шууд яриа."
+        "evidence": "Alpha Valeris-ийн шууд яриа; 849 болон 854-р мөрүүд түүний үйлдлийг хүүрнэж, ярианы завсрыг заана."
       },
       {
         "subtitle_id": 857,
@@ -14535,7 +14535,7 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Luna Valeris-ийн хурдан эдгэрснийг дүрсэлсэн Vivienne-ийн POV хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne-ийн POV дахь үйл явдал, хөдөлгөөн эсвэл ярианы тэмдэглэгээ; шууд хэлсэн үг биш."
       }
     ],
     "low": []
