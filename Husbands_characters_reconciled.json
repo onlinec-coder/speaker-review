@@ -20,7 +20,7 @@
           "type": "sister"
         },
         {
-          "target": "Lucien",
+          "target": "Lucian",
           "type": "antagonistic/former partner"
         },
         {
@@ -465,7 +465,7 @@
       "gender": "female",
       "relationships": [
         {
-          "target": "Lucien",
+          "target": "Lucian",
           "type": "deceived bride"
         }
       ],
@@ -525,7 +525,9 @@
     {
       "id": "C010",
       "canonical_name": "Luke Laurent",
-      "aliases": [],
+      "aliases": [
+        "Luke"
+      ],
       "gender": "male",
       "relationships": [
         {
@@ -541,38 +543,19 @@
       "evidence": [
         "334",
         "335",
-        "347"
+        "347",
+        "845",
+        "850",
+        "890",
+        "854",
+        "869",
+        "897",
+        "906"
       ],
       "confidence": "high",
       "source_ids": [
-        "C010"
-      ]
-    },
-    {
-      "id": "C011",
-      "canonical_name": "Lucien",
-      "aliases": [],
-      "gender": "male",
-      "relationships": [
-        {
-          "target": "Vivienne",
-          "type": "antagonistic"
-        },
-        {
-          "target": "Morgana",
-          "type": "groom"
-        }
-      ],
-      "speech_style": [],
-      "evidence": [
-        "425",
-        "439",
-        "470",
-        "482"
-      ],
-      "confidence": "high",
-      "source_ids": [
-        "C011"
+        "C010",
+        "C022"
       ]
     },
     {
@@ -612,27 +595,6 @@
       "source_ids": [
         "C021"
       ]
-    },
-    {
-      "id": "C022",
-      "canonical_name": "Luke",
-      "aliases": [],
-      "gender": "male",
-      "relationships": [],
-      "speech_style": [],
-      "evidence": [
-        "845",
-        "850",
-        "890",
-        "854",
-        "869",
-        "897",
-        "906"
-      ],
-      "confidence": "high",
-      "source_ids": [
-        "C022"
-      ]
     }
   ],
   "review_required": [
@@ -642,22 +604,15 @@
         "C021"
       ],
       "reason": "Alpha болон Luna хоёрын хамтарсан дурдлага; тусад нь салгах шаардлагатай"
-    },
-    {
-      "suggested_name": "Luke / Lance / Lawrence Brothers",
-      "character_ids": [
-        "C022"
-      ],
-      "reason": "Хамтын дурдлага болон хувь хүний нэр холилдсон"
     }
   ],
   "unresolved": [
-    "C021: Alpha Valerius болон Luna Valerius хамтарсан дурдлага",
-    "C022: Luke, Lance, Lawrence Brothers хамтын дурдлага"
+    "C021: Alpha Valerius болон Luna Valerius хамтарсан дурдлага"
   ],
   "notes": [
     "Зөвхөн merge_candidates доторх дүрүүдийг нэгтгэсэн.",
     "review_required дүрүүдийг тусад нь үлдээсэн.",
-    "exclude_from_characters доторх бүртгэлийг хассан."
+    "exclude_from_characters доторх бүртгэлийг хассан.",
+    "2026-11-07: C011 Lucien was removed after source SRT verification found no occurrence of 'Lucien'; related references were corrected to Lucian. C022 Luke was merged into C010 Luke Laurent after dialogue verification of cues 1191, 1193-1195, and 1197."
   ]
 }
