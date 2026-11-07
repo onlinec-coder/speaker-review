@@ -4806,11 +4806,11 @@
     },
     {
       "subtitle_id": 601,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
+      "speaker_id": "C008",
+      "speaker_name": "Morgana",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne is negotiating the protection of her brother in exchange for her cooperation."
+      "evidence": "Continuation of Morgana's sentence: 'If I do this, I need him protected.'"
     },
     {
       "subtitle_id": 602,
@@ -9094,19 +9094,19 @@
     },
     {
       "subtitle_id": 1137,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Aria continues speaking."
+      "evidence": "Vivienne repeats Aria's topic as a response: 'Laurent brothers,'; cue 1138 'I agreed.' is her following dialogue tag."
     },
     {
       "subtitle_id": 1138,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "character",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne responds to Aria."
+      "evidence": "First-person dialogue tag completing cue 1137: 'Laurent brothers,' I agreed."
     },
     {
       "subtitle_id": 1139,
