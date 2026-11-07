@@ -1313,10 +1313,6 @@ def get_subtitle_file_path():
 
 def main():
 
-    import time
-
-def main():
-
     global SUBTITLE_FILE
 
     import time
