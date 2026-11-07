@@ -222,11 +222,11 @@
     },
     {
       "subtitle_id": 28,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Vivienne-ийн шууд татгалзан хэлсэн үг."
+      "evidence": "Vivienne-ийн POV-оор үргэлжилж буй эхний биеийн хүүрнэл; шууд яриа биш."
     },
     {
       "subtitle_id": 29,
@@ -246,11 +246,11 @@
     },
     {
       "subtitle_id": 31,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Vivienne-ийн хариу хэлж буй үг."
+      "evidence": "30-р мөрийн өгүүлбэрийг үргэлжлүүлсэн Vivienne-ийн POV хүүрнэл."
     },
     {
       "subtitle_id": 32,
@@ -1302,19 +1302,19 @@
     },
     {
       "subtitle_id": 163,
-      "speaker_id": "C002",
-      "speaker_name": "Lucian",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Дурсамж доторх Lucian-ийн хэлсэн үг."
+      "evidence": "Vivienne-ийн POV дахь үйл явдлын хүүрнэл; дүрийн шууд яриа биш."
     },
     {
       "subtitle_id": 164,
-      "speaker_id": "C002",
-      "speaker_name": "Lucian",
+      "speaker_id": "C004",
+      "speaker_name": "Mother",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "Lucian-ийн хэлсэн үгийн үргэлжлэл."
+      "evidence": "Ээжийн шууд хэлсэн 'My girls' реплик; дараагийн 165-р мөрийн 'she said' үүнийг батална."
     },
     {
       "subtitle_id": 165,
@@ -1590,19 +1590,19 @@
     },
     {
       "subtitle_id": 199,
-      "speaker_id": "C002",
-      "speaker_name": "Lucian",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
       "confidence": "medium",
-      "evidence": "Lucian-ийн давтаж хэлж буй үг."
+      "evidence": "198-р мөрийн Vivienne-ийн эхний биеийн POV үргэлжилж, өөрийн бодлыг илэрхийлж байна."
     },
     {
       "subtitle_id": 200,
-      "speaker_id": "C002",
-      "speaker_name": "Lucian",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Lucian-ийн ярианы төгсгөл."
+      "evidence": "Vivienne-ийн POV дахь эхийн үйлдлийг дүрсэлсэн хүүрнэл."
     },
     {
       "subtitle_id": 201,
@@ -2798,11 +2798,11 @@
     },
     {
       "subtitle_id": 350,
-      "speaker_id": "C009",
-      "speaker_name": "Lance Laurent",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Хоёр дүүгийн нэгнийх нь яриа."
+      "evidence": "Vivienne өөрийн дуу хоолойг зөөллөснөө эхний биеэр хүүрнэж байна; шууд яриа биш."
     },
     {
       "subtitle_id": 351,
@@ -2846,11 +2846,11 @@
     },
     {
       "subtitle_id": 356,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Ариагийн хэлсэн үг."
+      "evidence": "Өмнөх инээмсэглэлийн дүрслэлийг үргэлжлүүлсэн хүүрнэл; дүрийн хэлсэн үг биш."
     },
     {
       "subtitle_id": 357,
@@ -3014,27 +3014,27 @@
     },
     {
       "subtitle_id": 377,
-      "speaker_id": "C008",
-      "speaker_name": "Morgana",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Morgana-гийн угтан авч хэлж буй шууд яриа."
+      "evidence": "Vivienne-ийн POV дахь Lucian-ийн тухай бодол, дүгнэлтийн хүүрнэл."
     },
     {
       "subtitle_id": 378,
-      "speaker_id": "C008",
-      "speaker_name": "Morgana",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Morgana-гийн ярианы үргэлжлэл."
+      "evidence": "377-р мөрийн Vivienne-ийн POV хүүрнэл үргэлжилж байна."
     },
     {
       "subtitle_id": 379,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Өрөө рүү орохыг зөвшөөрөл гуйж буй шууд яриа."
+      "evidence": "Vivienne-ийн эхний биеийн үйлдлийг дүрсэлсэн хүүрнэл."
     },
     {
       "subtitle_id": 380,
@@ -3094,11 +3094,11 @@
     },
     {
       "subtitle_id": 387,
-      "speaker_id": "C008",
-      "speaker_name": "Morgana",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Morgana-гийн хариу үйлдэл бүхий яриа."
+      "evidence": "Vivienne-ийн POV дахь Aria-г дүрсэлсэн хүүрнэл."
     },
     {
       "subtitle_id": 388,
@@ -3662,19 +3662,19 @@
     },
     {
       "subtitle_id": 458,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "Spoken dialogue responding to Arya's previous question."
+      "evidence": "459-р мөрийн 'Aria said' гэсэн ярианы тэмдэглэгээ 458-р мөрийн үгийг Aria-д оноож байна."
     },
     {
       "subtitle_id": 459,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Continuation of Vivienne's spoken dialogue."
+      "evidence": "'Aria said' нь шууд яриа биш, 458-р мөрийн яригчийг тодорхойлсон хүүрнэл."
     },
     {
       "subtitle_id": 460,
@@ -6158,11 +6158,11 @@
     },
     {
       "subtitle_id": 770,
-      "speaker_id": "C014",
-      "speaker_name": "Chief Elder Laurent",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Laurent-ийн яриа үргэлжилж байна."
+      "evidence": "Lucian юу ч хэлээгүйг дүрсэлсэн хүүрнэл; Chief Elder-ийн яриа биш."
     },
     {
       "subtitle_id": 771,
@@ -6766,27 +6766,27 @@
     },
     {
       "subtitle_id": 846,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "Өмнөх ярианд хариулж буй Vivienne-ийн реплик."
+      "evidence": "845-р мөрийн 'He cleared his throat' үйлдлийн дараах шууд хандалт; Alpha Valeris ярьж байна."
     },
     {
       "subtitle_id": 847,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne-ийн дотоод үйлдлийг тэмдэглэсэн хүүрнэл/бодол."
+      "evidence": "846-р мөрөнд эхэлсэн Alpha Valeris-ийн шууд ярианы үргэлжлэл."
     },
     {
       "subtitle_id": 848,
-      "speaker_id": "C005",
-      "speaker_name": "Narrator",
-      "speaker_type": "narrator",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Дүрийн гаднах үйлдлийг өгүүлсэн хүүрнэл."
+      "evidence": "846-р мөрөнд эхэлсэн Alpha Valeris-ийн шууд яриа; 849-р мөрөнд 'He glanced at his wife' гэж хүүрнэсэн."
     },
     {
       "subtitle_id": 849,
@@ -6798,51 +6798,51 @@
     },
     {
       "subtitle_id": 850,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "Arya-гийн Vivienne-д хандаж ярьж буй яриа."
+      "evidence": "849-р мөрийн 'He glanced at his wife' үйлдлийн дараах Alpha Valeris-ийн шууд яриа."
     },
     {
       "subtitle_id": 851,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "Ярианы давталт."
+      "evidence": "850-р мөрөөс үргэлжилсэн Alpha Valeris-ийн шууд яриа."
     },
     {
       "subtitle_id": 852,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "Ярианы явцад нэрийг дуудаж буй байдал."
+      "evidence": "850-р мөрөөс үргэлжилсэн Alpha Valeris-ийн шууд яриа."
     },
     {
       "subtitle_id": 853,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "Ярианы үргэлжлэл."
+      "evidence": "850-р мөрөөс үргэлжилсэн Alpha Valeris-ийн шууд яриа."
     },
     {
       "subtitle_id": 854,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Vivienne өөрт тохиолдсоныг ярьж байна."
+      "evidence": "Alpha Valeris-ийн инээмсэглэх оролдлогыг дүрсэлсэн хүүрнэл."
     },
     {
       "subtitle_id": 855,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
+      "speaker_id": "C012",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "Vivienne-ийн ярианы үргэлжлэл."
+      "evidence": "854-р мөрийн 'He tried for a reasonable smile' үйлдлийн дараах Alpha Valeris-ийн шууд яриа."
     },
     {
       "subtitle_id": 856,
@@ -6854,11 +6854,11 @@
     },
     {
       "subtitle_id": 857,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Ярианы үргэлжлэл."
+      "evidence": "Luna Valeris-ийн хурдан эдгэрснийг дүрсэлсэн Vivienne-ийн POV хүүрнэл."
     },
     {
       "subtitle_id": 858,
@@ -13873,19 +13873,19 @@
       },
       {
         "subtitle_id": 847,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne-ийн дотоод үйлдлийг тэмдэглэсэн хүүрнэл/бодол."
+        "evidence": "846-р мөрөнд эхэлсэн Alpha Valeris-ийн шууд ярианы үргэлжлэл."
       },
       {
         "subtitle_id": 848,
-        "speaker_id": "C005",
-        "speaker_name": "Narrator",
-        "speaker_type": "narrator",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Дүрийн гаднах үйлдлийг өгүүлсэн хүүрнэл."
+        "evidence": "846-р мөрөнд эхэлсэн Alpha Valeris-ийн шууд яриа; 849-р мөрөнд 'He glanced at his wife' гэж хүүрнэсэн."
       },
       {
         "subtitle_id": 849,
@@ -14315,51 +14315,51 @@
     "medium": [
       {
         "subtitle_id": 28,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Vivienne-ийн шууд татгалзан хэлсэн үг."
+        "evidence": "Vivienne-ийн POV-оор үргэлжилж буй эхний биеийн хүүрнэл; шууд яриа биш."
       },
       {
         "subtitle_id": 31,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Vivienne-ийн хариу хэлж буй үг."
+        "evidence": "30-р мөрийн өгүүлбэрийг үргэлжлүүлсэн Vivienne-ийн POV хүүрнэл."
       },
       {
         "subtitle_id": 163,
-        "speaker_id": "C002",
-        "speaker_name": "Lucian",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Дурсамж доторх Lucian-ийн хэлсэн үг."
+        "evidence": "Vivienne-ийн POV дахь үйл явдлын хүүрнэл; дүрийн шууд яриа биш."
       },
       {
         "subtitle_id": 164,
-        "speaker_id": "C002",
-        "speaker_name": "Lucian",
+        "speaker_id": "C004",
+        "speaker_name": "Mother",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "Lucian-ийн хэлсэн үгийн үргэлжлэл."
+        "evidence": "Ээжийн шууд хэлсэн 'My girls' реплик; дараагийн 165-р мөрийн 'she said' үүнийг батална."
       },
       {
         "subtitle_id": 199,
-        "speaker_id": "C002",
-        "speaker_name": "Lucian",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "inner_monologue",
         "confidence": "medium",
-        "evidence": "Lucian-ийн давтаж хэлж буй үг."
+        "evidence": "198-р мөрийн Vivienne-ийн эхний биеийн POV үргэлжилж, өөрийн бодлыг илэрхийлж байна."
       },
       {
         "subtitle_id": 200,
-        "speaker_id": "C002",
-        "speaker_name": "Lucian",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Lucian-ийн ярианы төгсгөл."
+        "evidence": "Vivienne-ийн POV дахь эхийн үйлдлийг дүрсэлсэн хүүрнэл."
       },
       {
         "subtitle_id": 349,
@@ -14371,19 +14371,19 @@
       },
       {
         "subtitle_id": 350,
-        "speaker_id": "C009",
-        "speaker_name": "Lance Laurent",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Хоёр дүүгийн нэгнийх нь яриа."
+        "evidence": "Vivienne өөрийн дуу хоолойг зөөллөснөө эхний биеэр хүүрнэж байна; шууд яриа биш."
       },
       {
         "subtitle_id": 356,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Ариагийн хэлсэн үг."
+        "evidence": "Өмнөх инээмсэглэлийн дүрслэлийг үргэлжлүүлсэн хүүрнэл; дүрийн хэлсэн үг биш."
       },
       {
         "subtitle_id": 365,
@@ -14403,51 +14403,51 @@
       },
       {
         "subtitle_id": 377,
-        "speaker_id": "C008",
-        "speaker_name": "Morgana",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Morgana-гийн угтан авч хэлж буй шууд яриа."
+        "evidence": "Vivienne-ийн POV дахь Lucian-ийн тухай бодол, дүгнэлтийн хүүрнэл."
       },
       {
         "subtitle_id": 378,
-        "speaker_id": "C008",
-        "speaker_name": "Morgana",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Morgana-гийн ярианы үргэлжлэл."
+        "evidence": "377-р мөрийн Vivienne-ийн POV хүүрнэл үргэлжилж байна."
       },
       {
         "subtitle_id": 379,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Өрөө рүү орохыг зөвшөөрөл гуйж буй шууд яриа."
+        "evidence": "Vivienne-ийн эхний биеийн үйлдлийг дүрсэлсэн хүүрнэл."
       },
       {
         "subtitle_id": 387,
-        "speaker_id": "C008",
-        "speaker_name": "Morgana",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Morgana-гийн хариу үйлдэл бүхий яриа."
+        "evidence": "Vivienne-ийн POV дахь Aria-г дүрсэлсэн хүүрнэл."
       },
       {
         "subtitle_id": 458,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
+        "speaker_id": "C003",
+        "speaker_name": "Aria",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "Spoken dialogue responding to Arya's previous question."
+        "evidence": "459-р мөрийн 'Aria said' гэсэн ярианы тэмдэглэгээ 458-р мөрийн үгийг Aria-д оноож байна."
       },
       {
         "subtitle_id": 459,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Continuation of Vivienne's spoken dialogue."
+        "evidence": "'Aria said' нь шууд яриа биш, 458-р мөрийн яригчийг тодорхойлсон хүүрнэл."
       },
       {
         "subtitle_id": 460,
@@ -14467,75 +14467,75 @@
       },
       {
         "subtitle_id": 770,
-        "speaker_id": "C014",
-        "speaker_name": "Chief Elder Laurent",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Laurent-ийн яриа үргэлжилж байна."
+        "evidence": "Lucian юу ч хэлээгүйг дүрсэлсэн хүүрнэл; Chief Elder-ийн яриа биш."
       },
       {
         "subtitle_id": 846,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "Өмнөх ярианд хариулж буй Vivienne-ийн реплик."
+        "evidence": "845-р мөрийн 'He cleared his throat' үйлдлийн дараах шууд хандалт; Alpha Valeris ярьж байна."
       },
       {
         "subtitle_id": 850,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "Arya-гийн Vivienne-д хандаж ярьж буй яриа."
+        "evidence": "849-р мөрийн 'He glanced at his wife' үйлдлийн дараах Alpha Valeris-ийн шууд яриа."
       },
       {
         "subtitle_id": 851,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "Ярианы давталт."
+        "evidence": "850-р мөрөөс үргэлжилсэн Alpha Valeris-ийн шууд яриа."
       },
       {
         "subtitle_id": 852,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "Ярианы явцад нэрийг дуудаж буй байдал."
+        "evidence": "850-р мөрөөс үргэлжилсэн Alpha Valeris-ийн шууд яриа."
       },
       {
         "subtitle_id": 853,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "Ярианы үргэлжлэл."
+        "evidence": "850-р мөрөөс үргэлжилсэн Alpha Valeris-ийн шууд яриа."
       },
       {
         "subtitle_id": 854,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Vivienne өөрт тохиолдсоныг ярьж байна."
+        "evidence": "Alpha Valeris-ийн инээмсэглэх оролдлогыг дүрсэлсэн хүүрнэл."
       },
       {
         "subtitle_id": 855,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
+        "speaker_id": "C012",
+        "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "Vivienne-ийн ярианы үргэлжлэл."
+        "evidence": "854-р мөрийн 'He tried for a reasonable smile' үйлдлийн дараах Alpha Valeris-ийн шууд яриа."
       },
       {
         "subtitle_id": 857,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Ярианы үргэлжлэл."
+        "evidence": "Luna Valeris-ийн хурдан эдгэрснийг дүрсэлсэн Vivienne-ийн POV хүүрнэл."
       }
     ],
     "low": []
