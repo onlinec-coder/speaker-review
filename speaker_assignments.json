@@ -958,11 +958,11 @@
     },
     {
       "subtitle_id": 120,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne is narrating the dialogue."
+      "evidence": "Aria continues recounting Lucian's words; this is part of her spoken account, not Vivienne's narration."
     },
     {
       "subtitle_id": 121,
@@ -3206,11 +3206,11 @@
     },
     {
       "subtitle_id": 401,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Continuation of the narrative description of past events."
+      "evidence": "Continuation of Aria's spoken sentence: 'After dad died, mom gave her a room, and let her keep it.'"
     },
     {
       "subtitle_id": 402,
