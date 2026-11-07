@@ -2722,39 +2722,39 @@
       "speaker_name": "Narrator",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Эхийн байдал болон үйл явдлыг дүрсэлсэн хүүрнэл."
+      "evidence": "Vivienne-ийн POV дахь эхний биеийн үйлдлийн хүүрнэл: 'I let the silence hang...'."
     },
     {
       "subtitle_id": 341,
-      "speaker_id": "C004",
-      "speaker_name": "Mother",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Эхийн ярианы шууд ишлэл."
+      "evidence": "340-р мөрийн өгүүлбэрийг 'enough to be convincing' гэж үргэлжлүүлсэн хүүрнэл."
     },
     {
       "subtitle_id": 342,
-      "speaker_id": "C004",
-      "speaker_name": "Mother",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Эхийн ярианы үргэлжлэл."
+      "evidence": "Vivienne өөрийн мөрөө зөөллөсөн үйлдлээ хүүрнэж байна."
     },
     {
       "subtitle_id": 343,
-      "speaker_id": "C004",
-      "speaker_name": "Mother",
-      "speaker_type": "character",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Эхийн ярианы үргэлжлэл."
+      "evidence": "342-р мөрийн Vivienne-ийн үйлдлийн өгүүлбэрийн үргэлжлэл."
     },
     {
       "subtitle_id": 344,
-      "speaker_id": "C004",
-      "speaker_name": "Mother",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Эхийн ярианы үргэлжлэл."
+      "evidence": "345-р мөрийн 'I said quietly' гэсэн ярианы тэмдэглэгээ 344-р мөрийн 'One more chance' үгийг Vivienne хэлснийг батална."
     },
     {
       "subtitle_id": 345,
@@ -2782,19 +2782,19 @@
     },
     {
       "subtitle_id": 348,
-      "speaker_id": "C005",
-      "speaker_name": "Narrator",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Хүүрнэлийн дүрслэл."
+      "evidence": "Vivienne 'One more chance' гэж хэлсний дараа эрэгтэй дүр амьсгаа гаргаж, 'Thank you' гэж хариулж байна."
     },
     {
       "subtitle_id": 349,
-      "speaker_id": "C009",
-      "speaker_name": "Lance Laurent",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
       "speaker_type": "character",
       "confidence": "medium",
-      "evidence": "Ланс эсвэл Люкийн хэлж буй ярианы эхлэл."
+      "evidence": "Дараах 'I kept my voice soft' болон 'Aria will make a scene' ярианы урсгалтай холбоотой Vivienne-ийн шууд хэлсэн үг."
     },
     {
       "subtitle_id": 350,
@@ -2806,43 +2806,43 @@
     },
     {
       "subtitle_id": 351,
-      "speaker_id": "C005",
-      "speaker_name": "Narrator",
-      "speaker_type": "narrator",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Үйл явдлыг үргэлжлүүлэн хүүрнэж байна."
+      "evidence": "350-р мөрийн 'I kept my voice soft' нь дараах Vivienne-ийн шууд яриаг танилцуулж байна."
     },
     {
       "subtitle_id": 352,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Дотоод бодол, нөхцөл байдлыг эргэцүүлж буй хэсэг."
+      "evidence": "350-р мөрийн ярианы тэмдэглэгээнээс үргэлжилсэн Vivienne-ийн шууд хэлсэн үг."
     },
     {
       "subtitle_id": 353,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Дотоод бодлын үргэлжлэл."
+      "evidence": "352-р мөрийн Vivienne-ийн шууд ярианы үргэлжлэл."
     },
     {
       "subtitle_id": 354,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Дотоод бодлын үргэлжлэл."
+      "evidence": "Lucian толгой дохисныг дүрсэлсэн Vivienne-ийн POV хүүрнэл."
     },
     {
       "subtitle_id": 355,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Дотоод шийдвэр гаргаж буй хэсэг."
+      "evidence": "Lucian-ийн инээмсэглэлийг дүрсэлсэн хүүрнэл."
     },
     {
       "subtitle_id": 356,
@@ -2850,47 +2850,47 @@
       "speaker_name": "Narrator",
       "speaker_type": "narrator",
       "confidence": "medium",
-      "evidence": "Өмнөх инээмсэглэлийн дүрслэлийг үргэлжлүүлсэн хүүрнэл; дүрийн хэлсэн үг биш."
+      "evidence": "355-р мөрийн инээмсэглэлийн дүрслэлийн үргэлжлэл."
     },
     {
       "subtitle_id": 357,
-      "speaker_id": "C005",
-      "speaker_name": "Narrator",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Ариагийн үйлдлийг тайлбарласан хүүрнэл."
+      "evidence": "Vivienne-д хандаж буй Lucian-ийн шууд амлалт; 'And I'll make it up to you'."
     },
     {
       "subtitle_id": 358,
-      "speaker_id": "C005",
-      "speaker_name": "Narrator",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Эхийн үйлдлийг тайлбарласан хүүрнэл."
+      "evidence": "357-р мөрөөс үргэлжилсэн Lucian-ийн шууд яриа."
     },
     {
       "subtitle_id": 359,
-      "speaker_id": "C005",
-      "speaker_name": "Narrator",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Үйл явдлын хүүрнэл."
+      "evidence": "357-р мөрөөс үргэлжилсэн Lucian-ийн шууд яриа."
     },
     {
       "subtitle_id": 360,
-      "speaker_id": "C005",
-      "speaker_name": "Narrator",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Гэрээ хийгдсэнийг дүрсэлсэн хүүрнэл."
+      "evidence": "357-р мөрөөс үргэлжилсэн Lucian-ийн шууд яриа."
     },
     {
       "subtitle_id": 361,
-      "speaker_id": "C005",
-      "speaker_name": "Narrator",
-      "speaker_type": "narrator",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
       "confidence": "high",
-      "evidence": "Эхний биеийн хэлбэрээр өгүүлэмж, үйл явдлыг өгүүлж буй хүүрнэл."
+      "evidence": "Lucian-ийн snow lily cake амлалтыг сонсоод Vivienne-ийн дотроо давтан бодож буй үг."
     },
     {
       "subtitle_id": 362,
@@ -9941,39 +9941,39 @@
         "speaker_name": "Narrator",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Эхийн байдал болон үйл явдлыг дүрсэлсэн хүүрнэл."
+        "evidence": "Vivienne-ийн POV дахь эхний биеийн үйлдлийн хүүрнэл: 'I let the silence hang...'."
       },
       {
         "subtitle_id": 341,
-        "speaker_id": "C004",
-        "speaker_name": "Mother",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Эхийн ярианы шууд ишлэл."
+        "evidence": "340-р мөрийн өгүүлбэрийг 'enough to be convincing' гэж үргэлжлүүлсэн хүүрнэл."
       },
       {
         "subtitle_id": 342,
-        "speaker_id": "C004",
-        "speaker_name": "Mother",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Эхийн ярианы үргэлжлэл."
+        "evidence": "Vivienne өөрийн мөрөө зөөллөсөн үйлдлээ хүүрнэж байна."
       },
       {
         "subtitle_id": 343,
-        "speaker_id": "C004",
-        "speaker_name": "Mother",
-        "speaker_type": "character",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Эхийн ярианы үргэлжлэл."
+        "evidence": "342-р мөрийн Vivienne-ийн үйлдлийн өгүүлбэрийн үргэлжлэл."
       },
       {
         "subtitle_id": 344,
-        "speaker_id": "C004",
-        "speaker_name": "Mother",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Эхийн ярианы үргэлжлэл."
+        "evidence": "345-р мөрийн 'I said quietly' гэсэн ярианы тэмдэглэгээ 344-р мөрийн 'One more chance' үгийг Vivienne хэлснийг батална."
       },
       {
         "subtitle_id": 345,
@@ -10001,91 +10001,91 @@
       },
       {
         "subtitle_id": 348,
-        "speaker_id": "C005",
-        "speaker_name": "Narrator",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Хүүрнэлийн дүрслэл."
+        "evidence": "Vivienne 'One more chance' гэж хэлсний дараа эрэгтэй дүр амьсгаа гаргаж, 'Thank you' гэж хариулж байна."
       },
       {
         "subtitle_id": 351,
-        "speaker_id": "C005",
-        "speaker_name": "Narrator",
-        "speaker_type": "narrator",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Үйл явдлыг үргэлжлүүлэн хүүрнэж байна."
+        "evidence": "350-р мөрийн 'I kept my voice soft' нь дараах Vivienne-ийн шууд яриаг танилцуулж байна."
       },
       {
         "subtitle_id": 352,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Дотоод бодол, нөхцөл байдлыг эргэцүүлж буй хэсэг."
+        "evidence": "350-р мөрийн ярианы тэмдэглэгээнээс үргэлжилсэн Vivienne-ийн шууд хэлсэн үг."
       },
       {
         "subtitle_id": 353,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Дотоод бодлын үргэлжлэл."
+        "evidence": "352-р мөрийн Vivienne-ийн шууд ярианы үргэлжлэл."
       },
       {
         "subtitle_id": 354,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Дотоод бодлын үргэлжлэл."
+        "evidence": "Lucian толгой дохисныг дүрсэлсэн Vivienne-ийн POV хүүрнэл."
       },
       {
         "subtitle_id": 355,
+        "speaker_id": "C005",
+        "speaker_name": "Narrator",
+        "speaker_type": "narrator",
+        "confidence": "high",
+        "evidence": "Lucian-ийн инээмсэглэлийг дүрсэлсэн хүүрнэл."
+      },
+      {
+        "subtitle_id": 357,
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "Vivienne-д хандаж буй Lucian-ийн шууд амлалт; 'And I'll make it up to you'."
+      },
+      {
+        "subtitle_id": 358,
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "357-р мөрөөс үргэлжилсэн Lucian-ийн шууд яриа."
+      },
+      {
+        "subtitle_id": 359,
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "357-р мөрөөс үргэлжилсэн Lucian-ийн шууд яриа."
+      },
+      {
+        "subtitle_id": 360,
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
+        "confidence": "high",
+        "evidence": "357-р мөрөөс үргэлжилсэн Lucian-ийн шууд яриа."
+      },
+      {
+        "subtitle_id": 361,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
         "speaker_type": "inner_monologue",
         "confidence": "high",
-        "evidence": "Дотоод шийдвэр гаргаж буй хэсэг."
-      },
-      {
-        "subtitle_id": 357,
-        "speaker_id": "C005",
-        "speaker_name": "Narrator",
-        "speaker_type": "narrator",
-        "confidence": "high",
-        "evidence": "Ариагийн үйлдлийг тайлбарласан хүүрнэл."
-      },
-      {
-        "subtitle_id": 358,
-        "speaker_id": "C005",
-        "speaker_name": "Narrator",
-        "speaker_type": "narrator",
-        "confidence": "high",
-        "evidence": "Эхийн үйлдлийг тайлбарласан хүүрнэл."
-      },
-      {
-        "subtitle_id": 359,
-        "speaker_id": "C005",
-        "speaker_name": "Narrator",
-        "speaker_type": "narrator",
-        "confidence": "high",
-        "evidence": "Үйл явдлын хүүрнэл."
-      },
-      {
-        "subtitle_id": 360,
-        "speaker_id": "C005",
-        "speaker_name": "Narrator",
-        "speaker_type": "narrator",
-        "confidence": "high",
-        "evidence": "Гэрээ хийгдсэнийг дүрсэлсэн хүүрнэл."
-      },
-      {
-        "subtitle_id": 361,
-        "speaker_id": "C005",
-        "speaker_name": "Narrator",
-        "speaker_type": "narrator",
-        "confidence": "high",
-        "evidence": "Эхний биеийн хэлбэрээр өгүүлэмж, үйл явдлыг өгүүлж буй хүүрнэл."
+        "evidence": "Lucian-ийн snow lily cake амлалтыг сонсоод Vivienne-ийн дотроо давтан бодож буй үг."
       },
       {
         "subtitle_id": 362,
@@ -14363,11 +14363,11 @@
       },
       {
         "subtitle_id": 349,
-        "speaker_id": "C009",
-        "speaker_name": "Lance Laurent",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
         "speaker_type": "character",
         "confidence": "medium",
-        "evidence": "Ланс эсвэл Люкийн хэлж буй ярианы эхлэл."
+        "evidence": "Дараах 'I kept my voice soft' болон 'Aria will make a scene' ярианы урсгалтай холбоотой Vivienne-ийн шууд хэлсэн үг."
       },
       {
         "subtitle_id": 350,
@@ -14383,7 +14383,7 @@
         "speaker_name": "Narrator",
         "speaker_type": "narrator",
         "confidence": "medium",
-        "evidence": "Өмнөх инээмсэглэлийн дүрслэлийг үргэлжлүүлсэн хүүрнэл; дүрийн хэлсэн үг биш."
+        "evidence": "355-р мөрийн инээмсэглэлийн дүрслэлийн үргэлжлэл."
       },
       {
         "subtitle_id": 365,
