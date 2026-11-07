@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 # 1. ТОХИРГОО
 # ==================================================
 
-SUBTITLE_FILE = "input.srt"
+SUBTITLE_FILE = None  # Set from user input in main()
 CHARACTER_FILE = "Husbands_characters_reconciled.json"
 
 PROMPT_DIRECTORY = Path("speaker_prompts")
@@ -1289,12 +1289,43 @@ def prepare_analysis_files(
 # 15. MAIN
 # ==================================================
 
+def get_subtitle_file_path():
+
+    while True:
+
+        raw_path = input(
+            "\nEnter the SRT file path to process: "
+        ).strip().strip('"').strip("'")
+
+        if not raw_path:
+            print("The file path is empty. Please try again.")
+            continue
+
+        subtitle_path = Path(raw_path).expanduser()
+
+        if not subtitle_path.is_file():
+            print(f"File not found: {subtitle_path}")
+            print("Please enter a valid file path.")
+            continue
+
+        return subtitle_path.resolve()
+
+
 def main():
 
     import time
 
+def main():
+
+    global SUBTITLE_FILE
+
+    import time
+
+    subtitle_path = get_subtitle_file_path()
+    SUBTITLE_FILE = str(subtitle_path)
+
     subtitles = load_subtitles(
-        SUBTITLE_FILE
+        subtitle_path
     )
 
     characters = load_characters(
