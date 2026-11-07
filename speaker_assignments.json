@@ -5686,11 +5686,11 @@
     },
     {
       "subtitle_id": 711,
-      "speaker_id": "C002",
-      "speaker_name": "Lucian",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
       "confidence": "high",
-      "evidence": "Lucian Vivienne-д шууд хандан хэлж буй үг."
+      "evidence": "Vivienne өөртөө нэрээ сануулж, дараа нь эрчүүдэд машинаа авчрахыг хэлэхээр бодож буй дотоод бодол."
     },
     {
       "subtitle_id": 712,
@@ -7102,75 +7102,75 @@
     },
     {
       "subtitle_id": 888,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Arya-ийн шууд яриа."
+      "evidence": "887-р мөрийн 'In another life' өгүүлбэрийн хүүрнэл үргэлжилж байна."
     },
     {
       "subtitle_id": 889,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Arya-ийн үргэлжилсэн шууд яриа."
+      "evidence": "Өмнөх хүүрнэлтэй үргэлжилсэн POV өгүүлэмж."
     },
     {
       "subtitle_id": 890,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Luke-д хандан ярьж буй Arya-ийн яриа."
+      "evidence": "891-р мөртэй нийлж 'This life I was his daughter-in-law' гэсэн хүүрнэх өгүүлбэр үүсгэнэ."
     },
     {
       "subtitle_id": 891,
-      "speaker_id": "C010",
-      "speaker_name": "Luke Laurent",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Arya-ийн ярианд хариулж буй Luke-ийн үг."
+      "evidence": "890-р мөрийн хүүрнэх өгүүлбэрийн үргэлжлэл; шууд яриа биш."
     },
     {
       "subtitle_id": 892,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Luke-ийн хариуд Arya эргүүлэн хэлж байна."
+      "evidence": "'The question was whether he'd answer the door' гэсэн хүүрнэл."
     },
     {
       "subtitle_id": 893,
-      "speaker_id": "C010",
-      "speaker_name": "Luke Laurent",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Luke-ийн яриа."
+      "evidence": "892-р мөрийн хүүрнэл үргэлжилж байна."
     },
     {
       "subtitle_id": 894,
-      "speaker_id": "C010",
-      "speaker_name": "Luke Laurent",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Luke-ийн ярианы үргэлжлэл."
+      "evidence": "Хоёр цаг өнгөрснийг дүрсэлсэн хүүрнэл."
     },
     {
       "subtitle_id": 895,
-      "speaker_id": "C003",
-      "speaker_name": "Aria",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Arya-ийн хариу үг."
+      "evidence": "Lucian ганцаараа буцаж ирснийг дүрсэлсэн хүүрнэл."
     },
     {
       "subtitle_id": 896,
-      "speaker_id": "C010",
-      "speaker_name": "Luke Laurent",
-      "speaker_type": "character",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Luke-ийн хошигносон эсвэл тайван хариулт."
+      "evidence": "Lucian өрөөнд орж ирсэн үйлдлийг дүрсэлсэн хүүрнэл."
     },
     {
       "subtitle_id": 897,
@@ -7200,9 +7200,9 @@
       "subtitle_id": 900,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "character",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne Arya-г нэрээр нь дуудаж буй шууд яриа."
+      "evidence": "899-р мөрийн 'He stood with one hand' өгүүлбэрийн үргэлжлэл."
     },
     {
       "subtitle_id": 901,
@@ -7216,17 +7216,17 @@
       "subtitle_id": 902,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "character",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne-ийн ярианы үргэлжлэл."
+      "evidence": "899–901-р мөрийн Lucian-ийн байрлал, хөдөлгөөнийг дүрсэлсэн хүүрнэл."
     },
     {
       "subtitle_id": 903,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Arya-ийн реакцийг ажиглаж буй POV дүрийн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Lucian-ийн шууд яриа эхэлж байна; 904-р мөрийн 'he said finally' нь ярианы tag."
     },
     {
       "subtitle_id": 904,
@@ -7234,39 +7234,39 @@
       "speaker_name": "Vivienne",
       "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Arya-ийн царайнд илэрсэн өөрчлөлтийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "903-р мөрийн Lucian-ийн хэлсэн үгийг тодруулсан ярианы tag."
     },
     {
       "subtitle_id": 905,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Arya-ийн дотоод мэдрэмжийн гаднын илрэлийг тайлбарласан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Vivienne Lucian-д 'And?' гэж шууд асууж байна."
     },
     {
       "subtitle_id": 906,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Arya-ийн хийсэн үйлдлийг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "Lucian Laurent-ийн хэлсэн үгийг тайлбарлаж буй шууд яриа."
     },
     {
       "subtitle_id": 907,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "POV дүрийн ажигласан зүйл буюூ Arya-ийн инээмсэглэлийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "906-р мөрийн Lucian-ийн шууд ярианы үргэлжлэл."
     },
     {
       "subtitle_id": 908,
-      "speaker_id": "C001",
-      "speaker_name": "Vivienne",
-      "speaker_type": "narrator",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "907-р мөрийн хүүрнэлтэй нэг POV өгүүлэмж үргэлжилж байна; Arya инээмсэглэж байсныг хүүрнэгч дүрсэлж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+      "evidence": "906–908-р мөр нийлж Lucian-ийн өгүүлбэрийг гүйцээж байна."
     }
   ],
   "review": {
@@ -12809,11 +12809,11 @@
       },
       {
         "subtitle_id": 711,
-        "speaker_id": "C002",
-        "speaker_name": "Lucian",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "inner_monologue",
         "confidence": "high",
-        "evidence": "Lucian Vivienne-д шууд хандан хэлж буй үг."
+        "evidence": "Vivienne өөртөө нэрээ сануулж, дараа нь эрчүүдэд машинаа авчрахыг хэлэхээр бодож буй дотоод бодол."
       },
       {
         "subtitle_id": 712,
@@ -14145,75 +14145,75 @@
       },
       {
         "subtitle_id": 888,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Arya-ийн шууд яриа."
+        "evidence": "887-р мөрийн 'In another life' өгүүлбэрийн хүүрнэл үргэлжилж байна."
       },
       {
         "subtitle_id": 889,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Arya-ийн үргэлжилсэн шууд яриа."
+        "evidence": "Өмнөх хүүрнэлтэй үргэлжилсэн POV өгүүлэмж."
       },
       {
         "subtitle_id": 890,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Luke-д хандан ярьж буй Arya-ийн яриа."
+        "evidence": "891-р мөртэй нийлж 'This life I was his daughter-in-law' гэсэн хүүрнэх өгүүлбэр үүсгэнэ."
       },
       {
         "subtitle_id": 891,
-        "speaker_id": "C010",
-        "speaker_name": "Luke Laurent",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Arya-ийн ярианд хариулж буй Luke-ийн үг."
+        "evidence": "890-р мөрийн хүүрнэх өгүүлбэрийн үргэлжлэл; шууд яриа биш."
       },
       {
         "subtitle_id": 892,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Luke-ийн хариуд Arya эргүүлэн хэлж байна."
+        "evidence": "'The question was whether he'd answer the door' гэсэн хүүрнэл."
       },
       {
         "subtitle_id": 893,
-        "speaker_id": "C010",
-        "speaker_name": "Luke Laurent",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Luke-ийн яриа."
+        "evidence": "892-р мөрийн хүүрнэл үргэлжилж байна."
       },
       {
         "subtitle_id": 894,
-        "speaker_id": "C010",
-        "speaker_name": "Luke Laurent",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Luke-ийн ярианы үргэлжлэл."
+        "evidence": "Хоёр цаг өнгөрснийг дүрсэлсэн хүүрнэл."
       },
       {
         "subtitle_id": 895,
-        "speaker_id": "C003",
-        "speaker_name": "Aria",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Arya-ийн хариу үг."
+        "evidence": "Lucian ганцаараа буцаж ирснийг дүрсэлсэн хүүрнэл."
       },
       {
         "subtitle_id": 896,
-        "speaker_id": "C010",
-        "speaker_name": "Luke Laurent",
-        "speaker_type": "character",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Luke-ийн хошигносон эсвэл тайван хариулт."
+        "evidence": "Lucian өрөөнд орж ирсэн үйлдлийг дүрсэлсэн хүүрнэл."
       },
       {
         "subtitle_id": 897,
@@ -14243,9 +14243,9 @@
         "subtitle_id": 900,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "character",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne Arya-г нэрээр нь дуудаж буй шууд яриа."
+        "evidence": "899-р мөрийн 'He stood with one hand' өгүүлбэрийн үргэлжлэл."
       },
       {
         "subtitle_id": 901,
@@ -14259,17 +14259,17 @@
         "subtitle_id": 902,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "character",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne-ийн ярианы үргэлжлэл."
+        "evidence": "899–901-р мөрийн Lucian-ийн байрлал, хөдөлгөөнийг дүрсэлсэн хүүрнэл."
       },
       {
         "subtitle_id": 903,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Arya-ийн реакцийг ажиглаж буй POV дүрийн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Lucian-ийн шууд яриа эхэлж байна; 904-р мөрийн 'he said finally' нь ярианы tag."
       },
       {
         "subtitle_id": 904,
@@ -14277,39 +14277,39 @@
         "speaker_name": "Vivienne",
         "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Arya-ийн царайнд илэрсэн өөрчлөлтийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "903-р мөрийн Lucian-ийн хэлсэн үгийг тодруулсан ярианы tag."
       },
       {
         "subtitle_id": 905,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Arya-ийн дотоод мэдрэмжийн гаднын илрэлийг тайлбарласан хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Vivienne Lucian-д 'And?' гэж шууд асууж байна."
       },
       {
         "subtitle_id": 906,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Arya-ийн хийсэн үйлдлийг дүрсэлсэн хүүрнэл. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "Lucian Laurent-ийн хэлсэн үгийг тайлбарлаж буй шууд яриа."
       },
       {
         "subtitle_id": 907,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "POV дүрийн ажигласан зүйл буюூ Arya-ийн инээмсэглэлийг хүүрнэж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "906-р мөрийн Lucian-ийн шууд ярианы үргэлжлэл."
       },
       {
         "subtitle_id": 908,
-        "speaker_id": "C001",
-        "speaker_name": "Vivienne",
-        "speaker_type": "narrator",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "907-р мөрийн хүүрнэлтэй нэг POV өгүүлэмж үргэлжилж байна; Arya инээмсэглэж байсныг хүүрнэгч дүрсэлж байна. Дубляжийн баталгаажсан voice identity: Vivienne; Narrator нь тусдаа дүр биш, хүүрнэх үүргийн тэмдэглэгээ."
+        "evidence": "906–908-р мөр нийлж Lucian-ийн өгүүлбэрийг гүйцээж байна."
       }
     ],
     "medium": [
