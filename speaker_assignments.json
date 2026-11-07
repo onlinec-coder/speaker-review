@@ -6174,11 +6174,11 @@
     },
     {
       "subtitle_id": 772,
-      "speaker_id": "C014",
-      "speaker_name": "Chief Elder Laurent",
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "'I declined' гэдэг нь гэрээний саналыг өөрөө татгалзсан Chief Elder Laurent-ийн шууд хариулт."
+      "evidence": "771–773-р мөр нь нэг ярианы үргэлжлэл: Vivienne Alpha Valeris-д гэрээг татгалзсанаа хэлж байна."
     },
     {
       "subtitle_id": 773,
@@ -6304,49 +6304,49 @@
       "subtitle_id": 788,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+      "evidence": "Vivienne Morgana-г таних нэмэлт шинжийг бусдад шууд хэлж байна; дараагийн 790-р мөрийн 'The silence that followed' нь хэлсэн үгийн дараах нам гүмийг заана."
     },
     {
       "subtitle_id": 789,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+      "evidence": "788-р мөрийн Vivienne-ийн шууд тайлбарын үргэлжлэл."
     },
     {
       "subtitle_id": 790,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+      "evidence": "Vivienne-ийн хэлсэн үгийн дараах нам гүмийг дүрсэлсэн хүүрнэл."
     },
     {
       "subtitle_id": 791,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+      "evidence": "Luna Valeris сандал дээр суусныг дүрсэлсэн хүүрнэл."
     },
     {
       "subtitle_id": 792,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+      "evidence": "Alpha Valeris Lucian руу эргэснийг дүрсэлсэн хүүрнэл."
     },
     {
       "subtitle_id": 793,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+      "evidence": "792-р мөрийн хөдөлгөөнийг 'slow' гэж тодруулсан хүүрнэл."
     },
     {
       "subtitle_id": 794,
@@ -6360,9 +6360,9 @@
       "subtitle_id": 795,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
-      "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+      "evidence": "794-р мөрийн өгүүлбэрийг үргэлжлүүлсэн хүүрнэл."
     },
     {
       "subtitle_id": 796,
@@ -13281,11 +13281,11 @@
       },
       {
         "subtitle_id": 772,
-        "speaker_id": "C014",
-        "speaker_name": "Chief Elder Laurent",
+        "speaker_id": "C001",
+        "speaker_name": "Vivienne",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "'I declined' гэдэг нь гэрээний саналыг өөрөө татгалзсан Chief Elder Laurent-ийн шууд хариулт."
+        "evidence": "771–773-р мөр нь нэг ярианы үргэлжлэл: Vivienne Alpha Valeris-д гэрээг татгалзсанаа хэлж байна."
       },
       {
         "subtitle_id": 773,
@@ -13411,49 +13411,49 @@
         "subtitle_id": 788,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+        "evidence": "Vivienne Morgana-г таних нэмэлт шинжийг бусдад шууд хэлж байна; дараагийн 790-р мөрийн 'The silence that followed' нь хэлсэн үгийн дараах нам гүмийг заана."
       },
       {
         "subtitle_id": 789,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+        "evidence": "788-р мөрийн Vivienne-ийн шууд тайлбарын үргэлжлэл."
       },
       {
         "subtitle_id": 790,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+        "evidence": "Vivienne-ийн хэлсэн үгийн дараах нам гүмийг дүрсэлсэн хүүрнэл."
       },
       {
         "subtitle_id": 791,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+        "evidence": "Luna Valeris сандал дээр суусныг дүрсэлсэн хүүрнэл."
       },
       {
         "subtitle_id": 792,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+        "evidence": "Alpha Valeris Lucian руу эргэснийг дүрсэлсэн хүүрнэл."
       },
       {
         "subtitle_id": 793,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+        "evidence": "792-р мөрийн хөдөлгөөнийг 'slow' гэж тодруулсан хүүрнэл."
       },
       {
         "subtitle_id": 794,
@@ -13467,9 +13467,9 @@
         "subtitle_id": 795,
         "speaker_id": "C001",
         "speaker_name": "Vivienne",
-        "speaker_type": "inner_monologue",
+        "speaker_type": "narrator",
         "confidence": "high",
-        "evidence": "Vivienne-ийн дотоод ажиглалт, дүгнэлт; бусад дүрийн шууд яриа биш."
+        "evidence": "794-р мөрийн өгүүлбэрийг үргэлжлүүлсэн хүүрнэл."
       },
       {
         "subtitle_id": 796,
