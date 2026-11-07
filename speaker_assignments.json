@@ -4001,8 +4001,8 @@
       "speaker_id": "C003",
       "speaker_name": "Aria",
       "speaker_type": "character",
-      "confidence": "medium",
-      "evidence": "Aria agreeing to the plan."
+      "confidence": "high",
+      "evidence": "Aria's brief agreement to the plan; the immediately following cue explicitly narrates 'Aria exhaled,' confirming the response is hers."
     },
     {
       "subtitle_id": 501,
@@ -6873,40 +6873,40 @@
       "speaker_id": "C013",
       "speaker_name": "Luna Valerius",
       "speaker_type": "character",
-      "confidence": "medium",
-      "evidence": "Luna Valerius is speaking to Vivienne."
+      "confidence": "high",
+      "evidence": "Luna is explicitly identified immediately before this uninterrupted speech: 'Luna Valeris recovered fast. Too fast.' She then addresses Vivienne by name and continues one coherent statement through cue 863."
     },
     {
       "subtitle_id": 860,
       "speaker_id": "C013",
       "speaker_name": "Luna Valerius",
       "speaker_type": "character",
-      "confidence": "medium",
-      "evidence": "Luna Valerius is speaking to Vivienne."
+      "confidence": "high",
+      "evidence": "Luna is explicitly identified immediately before this uninterrupted speech: 'Luna Valeris recovered fast. Too fast.' She then addresses Vivienne by name and continues one coherent statement through cue 863."
     },
     {
       "subtitle_id": 861,
       "speaker_id": "C013",
       "speaker_name": "Luna Valerius",
       "speaker_type": "character",
-      "confidence": "medium",
-      "evidence": "Luna Valerius is speaking to Vivienne."
+      "confidence": "high",
+      "evidence": "Luna is explicitly identified immediately before this uninterrupted speech: 'Luna Valeris recovered fast. Too fast.' She then addresses Vivienne by name and continues one coherent statement through cue 863."
     },
     {
       "subtitle_id": 862,
       "speaker_id": "C013",
       "speaker_name": "Luna Valerius",
       "speaker_type": "character",
-      "confidence": "medium",
-      "evidence": "Luna Valerius is speaking to Vivienne."
+      "confidence": "high",
+      "evidence": "Luna is explicitly identified immediately before this uninterrupted speech: 'Luna Valeris recovered fast. Too fast.' She then addresses Vivienne by name and continues one coherent statement through cue 863."
     },
     {
       "subtitle_id": 863,
       "speaker_id": "C013",
       "speaker_name": "Luna Valerius",
       "speaker_type": "character",
-      "confidence": "medium",
-      "evidence": "Luna Valerius is speaking to Vivienne."
+      "confidence": "high",
+      "evidence": "Luna is explicitly identified immediately before this uninterrupted speech: 'Luna Valeris recovered fast. Too fast.' She then addresses Vivienne by name and continues one coherent statement through cue 863."
     },
     {
       "subtitle_id": 864,
