@@ -1952,7 +1952,7 @@
       "subtitle_id": 244,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "inner_monologue",
+      "speaker_type": "narrator",
       "confidence": "high",
       "evidence": "Vivienne narrating her own speech act."
     },
@@ -3048,7 +3048,7 @@
       "subtitle_id": 381,
       "speaker_id": "C001",
       "speaker_name": "Vivienne",
-      "speaker_type": "character",
+      "speaker_type": "narrator",
       "confidence": "high",
       "evidence": "Vivienne speaking aloud."
     },
