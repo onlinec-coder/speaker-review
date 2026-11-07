@@ -497,31 +497,53 @@ def build_speaker_prompt(batch, characters):
         ]
     }
 
-    narrator = next(
+    # Husbands-ийн тохиролцсон voice identity:
+    # Narration болон Vivienne-ийн inner monologue хоёулаа Vivienne-ийн
+    # нэг voice identity (C001)-д оноогдоно. Narrator тусдаа voice биш.
+    vivienne = next(
         (
             character
             for character in characters
-            if character.get("name") == "Narrator"
+            if character.get("name") == "Vivienne"
         ),
         None
     )
 
-    narrator_id = narrator.get("id") if narrator else None
+    if not vivienne:
+        raise ValueError(
+            "Дүрийн бүртгэлээс Vivienne олдсонгүй. "
+            "Narration болон inner_monologue-ийг C001-д оноох боломжгүй."
+        )
 
-    narrator_instruction = (
-        f"""
-Narrator бүртгэл:
-- speaker_id = "{narrator_id}"
-- speaker_name = "Narrator"
-- speaker_type = "narrator"
+    vivienne_id = vivienne["id"]
+
+    # Narrator нэртэй хуучин бүртгэлийг AI-д дүр болгон харуулахгүй.
+    # Энэ нь тусдаа Narrator voice үүсгэхээс сэргийлнэ.
+    prompt_characters = [
+        character
+        for character in characters
+        if character.get("name") != "Narrator"
+    ]
+
+    narrator_instruction = f"""
+VOICE IDENTITY-ИЙН ЗААВАЛ МӨРДӨХ ДҮРЭМ:
+
+- Киноны narration / хүүрнэлийг тусдаа Narrator дүрд оноож болохгүй.
+- Narration-ийн speaker_id = "{vivienne_id}"
+- Narration-ийн speaker_name = "Vivienne"
+- Narration-ийн speaker_type = "narrator"
+
+- Vivienne-ийн дотоод бодол, мэдрэмж, дурсамжийг:
+  speaker_id = "{vivienne_id}"
+  speaker_name = "Vivienne"
+  speaker_type = "inner_monologue"
+
+- Narration болон Vivienne-ийн inner_monologue нь dubbing хийхэд
+  НЭГ Л VOICE IDENTITY буюу Vivienne байна.
+- "Narrator" нэртэй тусдаа speaker_id-г хэзээ ч бүү ашигла.
+- Narrator бүртгэл дүрийн жагсаалтад байсан ч түүнийг оноолтод бүү ашигла.
+- narration ба inner_monologue-ийн ялгааг зөвхөн speaker_type-аар хадгал.
 """
-        if narrator
-        else """
-Narrator бүртгэл байхгүй.
-Гаднын хүүрнэлд narrator гэж ангилж,
-speaker_id болон speaker_name-ийг null үлдээ.
-"""
-    )
 
     return f"""
 Чи мэргэжлийн киноны диалог болон хүүрнэлийн шинжээч.
@@ -532,7 +554,7 @@ speaker_id болон speaker_name-ийг null үлдээ.
 
 ДҮРҮҮД:
 {json.dumps(
-    characters,
+    prompt_characters,
     ensure_ascii=False,
     indent=2
 )}
@@ -670,19 +692,17 @@ Narrator нь дүрийн дотоод бодол биш,
    speaker_type = "inner_monologue"
 
 ==================================================
-4. NARRATOR БҮРТГЭЛ
+4. NARRATION БА VOICE IDENTITY
 ==================================================
 
 {narrator_instruction}
 
-Нэмэлт дүрэм:
+Энэ киноны баталгаажсан dubbing шийдвэрийг мөрд:
+Narration нь тусдаа Narrator voice биш, Vivienne-ийн voice identity.
+Гаднын хүүрнэлийн төрлийг speaker_type = "narrator" гэж хадгалж болно,
+гэхдээ speaker_id болон speaker_name нь Vivienne байна.
 
-- Narrator бүртгэл байгаа үед зөвхөн
-  гаднын хүүрнэлд тухайн ID-г ашигла.
-- Narrator-ийн ID-г өөр дүрд оноож болохгүй.
-- Narrator-ийн бүртгэлийн ID болон нэрийг
-  characters жагсаалтаас яг хэвээр ав.
-- Narrator-ийн ID-г таамгаар зохиож болохгүй.
+Narration ба inner_monologue-ийн speaker identity-г хэзээ ч салгаж болохгүй.
 
 ==================================================
 5. UNKNOWN АНГИЛАЛ
