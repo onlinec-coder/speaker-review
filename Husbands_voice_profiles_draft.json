@@ -1,0 +1,539 @@
+{
+  "schema_version": "1.0",
+  "project": "Husbands",
+  "status": "draft_for_voice_direction",
+  "created_from": {
+    "assignments_blob_sha": "656c6edde2c6135c530e524de0398e08705fc075",
+    "character_data_blob_sha": "d51e77ba28bfad038c96e0d27fae5c5d4fe5e0d0",
+    "english_srt_blob_sha": "7d1ecacde4078d187fb7c1a5e865f53432d294f1"
+  },
+  "voice_identity_rules": [
+    "Vivienne C001 is the single voice identity for direct dialogue, narration, and inner monologue.",
+    "Narrator is a legacy metadata entry, not a separate dubbing voice.",
+    "speaker_type describes delivery/function; it does not create a new voice identity.",
+    "Do not assign pitch, timbre, age quality, accent, or TTS voice without an audio reference."
+  ],
+  "profiles": [
+    {
+      "speaker_id": "C001",
+      "canonical_name": "Vivienne",
+      "gender_from_character_data": "female",
+      "assignment_count": 915,
+      "assignment_type_counts": {
+        "inner_monologue": 226,
+        "narrator": 549,
+        "character": 140
+      },
+      "source_speech_style": [
+        "calm",
+        "direct",
+        "defiant"
+      ],
+      "draft_performance_direction": "One consistent voice identity for Vivienne's direct dialogue, narration, and inner monologue. Keep narration/inner-monologue as delivery modes, not separate speakers.",
+      "acoustic_profile": {
+        "perceived_pitch": null,
+        "timbre": null,
+        "pace": null,
+        "accent": null,
+        "age_quality": null
+      },
+      "tts_voice_id": null,
+      "audio_reference_status": "not_yet_assessed",
+      "english_dialogue_examples": [
+        {
+          "subtitle_id": 47,
+          "text": "No."
+        },
+        {
+          "subtitle_id": 51,
+          "text": "I was a kid."
+        },
+        {
+          "subtitle_id": 52,
+          "text": "I didn't know any better."
+        },
+        {
+          "subtitle_id": 105,
+          "text": "Aria."
+        },
+        {
+          "subtitle_id": 108,
+          "text": "I promise."
+        },
+        {
+          "subtitle_id": 126,
+          "text": "Aria."
+        }
+      ]
+    },
+    {
+      "speaker_id": "C002",
+      "canonical_name": "Lucian",
+      "gender_from_character_data": "male",
+      "assignment_count": 110,
+      "assignment_type_counts": {
+        "character": 110
+      },
+      "source_speech_style": [
+        "authoritative",
+        "steady",
+        "calm",
+        "manipulative",
+        "persuasive",
+        "quiet",
+        "tense"
+      ],
+      "draft_performance_direction": "Draft performance direction based only on the existing character notes: authoritative, steady, calm, manipulative, persuasive, quiet, tense. Do not infer pitch, age, accent, or timbre until audio review.",
+      "acoustic_profile": {
+        "perceived_pitch": null,
+        "timbre": null,
+        "pace": null,
+        "accent": null,
+        "age_quality": null
+      },
+      "tts_voice_id": null,
+      "audio_reference_status": "not_yet_assessed",
+      "english_dialogue_examples": [
+        {
+          "subtitle_id": 6,
+          "text": "Seven pups,"
+        },
+        {
+          "subtitle_id": 7,
+          "text": "All high-ranking blood."
+        },
+        {
+          "subtitle_id": 8,
+          "text": "That's enough."
+        },
+        {
+          "subtitle_id": 11,
+          "text": "You were never the one I wanted,"
+        },
+        {
+          "subtitle_id": 12,
+          "text": "Vivienne."
+        },
+        {
+          "subtitle_id": 14,
+          "text": "You threw yourself at me."
+        }
+      ]
+    },
+    {
+      "speaker_id": "C003",
+      "canonical_name": "Aria",
+      "gender_from_character_data": "female",
+      "assignment_count": 82,
+      "assignment_type_counts": {
+        "character": 82
+      },
+      "source_speech_style": [
+        "flat",
+        "controlled",
+        "bright",
+        "sharp"
+      ],
+      "draft_performance_direction": "Draft performance direction based only on the existing character notes: flat, controlled, bright, sharp. Do not infer pitch, age, accent, or timbre until audio review.",
+      "acoustic_profile": {
+        "perceived_pitch": null,
+        "timbre": null,
+        "pace": null,
+        "accent": null,
+        "age_quality": null
+      },
+      "tts_voice_id": null,
+      "audio_reference_status": "not_yet_assessed",
+      "english_dialogue_examples": [
+        {
+          "subtitle_id": 59,
+          "text": "I also have someone."
+        },
+        {
+          "subtitle_id": 60,
+          "text": "He'll be here soon with his own contract."
+        },
+        {
+          "subtitle_id": 65,
+          "text": "Same, I'm not available either."
+        },
+        {
+          "subtitle_id": 101,
+          "text": "\"I'll tell you something."
+        },
+        {
+          "subtitle_id": 102,
+          "text": "But you have to promise not to feel guilty."
+        },
+        {
+          "subtitle_id": 106,
+          "text": "Promise me first."
+        }
+      ]
+    },
+    {
+      "speaker_id": "C004",
+      "canonical_name": "Mother",
+      "gender_from_character_data": "female",
+      "assignment_count": 28,
+      "assignment_type_counts": {
+        "character": 28
+      },
+      "source_speech_style": [
+        "authoritative",
+        "steady"
+      ],
+      "draft_performance_direction": "Draft performance direction based only on the existing character notes: authoritative, steady. Do not infer pitch, age, accent, or timbre until audio review.",
+      "acoustic_profile": {
+        "perceived_pitch": null,
+        "timbre": null,
+        "pace": null,
+        "accent": null,
+        "age_quality": null
+      },
+      "tts_voice_id": null,
+      "audio_reference_status": "not_yet_assessed",
+      "english_dialogue_examples": [
+        {
+          "subtitle_id": 35,
+          "text": "The Valeris heir sent this earlier this morning."
+        },
+        {
+          "subtitle_id": 36,
+          "text": "Vivienne,"
+        },
+        {
+          "subtitle_id": 37,
+          "text": "Is it you he's asking for?"
+        },
+        {
+          "subtitle_id": 68,
+          "text": "I'm so sorry."
+        },
+        {
+          "subtitle_id": 69,
+          "text": "It seems both my daughters"
+        },
+        {
+          "subtitle_id": 70,
+          "text": "have prior commitments."
+        }
+      ]
+    },
+    {
+      "speaker_id": "C008",
+      "canonical_name": "Morgana",
+      "gender_from_character_data": "female",
+      "assignment_count": 20,
+      "assignment_type_counts": {
+        "character": 20
+      },
+      "source_speech_style": [
+        "flat"
+      ],
+      "draft_performance_direction": "Draft performance direction based only on the existing character notes: flat. Do not infer pitch, age, accent, or timbre until audio review.",
+      "acoustic_profile": {
+        "perceived_pitch": null,
+        "timbre": null,
+        "pace": null,
+        "accent": null,
+        "age_quality": null
+      },
+      "tts_voice_id": null,
+      "audio_reference_status": "not_yet_assessed",
+      "english_dialogue_examples": [
+        {
+          "subtitle_id": 531,
+          "text": "Miss Coldwell,"
+        },
+        {
+          "subtitle_id": 532,
+          "text": "Both of you."
+        },
+        {
+          "subtitle_id": 533,
+          "text": "This is unexpected."
+        },
+        {
+          "subtitle_id": 548,
+          "text": "All right."
+        },
+        {
+          "subtitle_id": 564,
+          "text": "Two days."
+        },
+        {
+          "subtitle_id": 566,
+          "text": "And you're here"
+        }
+      ]
+    },
+    {
+      "speaker_id": "C009",
+      "canonical_name": "Lance Laurent",
+      "gender_from_character_data": "male",
+      "assignment_count": 7,
+      "assignment_type_counts": {
+        "character": 7
+      },
+      "source_speech_style": [],
+      "draft_performance_direction": "Acoustic characteristics not yet verified; use the source dialogue and later audio reference before selecting a TTS voice.",
+      "acoustic_profile": {
+        "perceived_pitch": null,
+        "timbre": null,
+        "pace": null,
+        "accent": null,
+        "age_quality": null
+      },
+      "tts_voice_id": null,
+      "audio_reference_status": "not_yet_assessed",
+      "english_dialogue_examples": [
+        {
+          "subtitle_id": 490,
+          "text": "You don't know us."
+        },
+        {
+          "subtitle_id": 491,
+          "text": "That's fine."
+        },
+        {
+          "subtitle_id": 492,
+          "text": "We can wait."
+        },
+        {
+          "subtitle_id": 1179,
+          "text": "You don't have to"
+        },
+        {
+          "subtitle_id": 1180,
+          "text": "figure everything out today"
+        },
+        {
+          "subtitle_id": 1181,
+          "text": "I meant what I said."
+        }
+      ]
+    },
+    {
+      "speaker_id": "C010",
+      "canonical_name": "Luke Laurent",
+      "gender_from_character_data": "male",
+      "assignment_count": 5,
+      "assignment_type_counts": {
+        "character": 5
+      },
+      "source_speech_style": [],
+      "draft_performance_direction": "Acoustic characteristics not yet verified; use the source dialogue and later audio reference before selecting a TTS voice.",
+      "acoustic_profile": {
+        "perceived_pitch": null,
+        "timbre": null,
+        "pace": null,
+        "accent": null,
+        "age_quality": null
+      },
+      "tts_voice_id": null,
+      "audio_reference_status": "not_yet_assessed",
+      "english_dialogue_examples": [
+        {
+          "subtitle_id": 1191,
+          "text": "You were extremely memorable."
+        },
+        {
+          "subtitle_id": 1193,
+          "text": "You challenged three older kids"
+        },
+        {
+          "subtitle_id": 1194,
+          "text": "to a race and won."
+        },
+        {
+          "subtitle_id": 1195,
+          "text": "I was impressed"
+        },
+        {
+          "subtitle_id": 1197,
+          "text": "You keep saying that."
+        }
+      ]
+    },
+    {
+      "speaker_id": "C012",
+      "canonical_name": "Alpha Valeris",
+      "gender_from_character_data": "male",
+      "assignment_count": 13,
+      "assignment_type_counts": {
+        "character": 13
+      },
+      "source_speech_style": [
+        "authoritative",
+        "calculating"
+      ],
+      "draft_performance_direction": "Draft performance direction based only on the existing character notes: authoritative, calculating. Do not infer pitch, age, accent, or timbre until audio review.",
+      "acoustic_profile": {
+        "perceived_pitch": null,
+        "timbre": null,
+        "pace": null,
+        "accent": null,
+        "age_quality": null
+      },
+      "tts_voice_id": null,
+      "audio_reference_status": "not_yet_assessed",
+      "english_dialogue_examples": [
+        {
+          "subtitle_id": 796,
+          "text": "Who is she?"
+        },
+        {
+          "subtitle_id": 799,
+          "text": "Lucian."
+        },
+        {
+          "subtitle_id": 823,
+          "text": "That's enough."
+        },
+        {
+          "subtitle_id": 827,
+          "text": "Get me Chief Elder Laurent on the phone,"
+        },
+        {
+          "subtitle_id": 829,
+          "text": "Now."
+        },
+        {
+          "subtitle_id": 846,
+          "text": "Vivienne,"
+        }
+      ]
+    },
+    {
+      "speaker_id": "C013",
+      "canonical_name": "Luna Valerius",
+      "gender_from_character_data": "female",
+      "assignment_count": 14,
+      "assignment_type_counts": {
+        "character": 14
+      },
+      "source_speech_style": [
+        "nervous",
+        "persuasive"
+      ],
+      "draft_performance_direction": "Draft performance direction based only on the existing character notes: nervous, persuasive. Do not infer pitch, age, accent, or timbre until audio review.",
+      "acoustic_profile": {
+        "perceived_pitch": null,
+        "timbre": null,
+        "pace": null,
+        "accent": null,
+        "age_quality": null
+      },
+      "tts_voice_id": null,
+      "audio_reference_status": "not_yet_assessed",
+      "english_dialogue_examples": [
+        {
+          "subtitle_id": 749,
+          "text": "Vivienne sweetheart,"
+        },
+        {
+          "subtitle_id": 750,
+          "text": "You're finally up."
+        },
+        {
+          "subtitle_id": 753,
+          "text": "The morning after greeting ceremony is in an hour."
+        },
+        {
+          "subtitle_id": 754,
+          "text": "We've been so excited for this day."
+        },
+        {
+          "subtitle_id": 761,
+          "text": "What do you mean, wrong person?"
+        },
+        {
+          "subtitle_id": 762,
+          "text": "Sweetheart, you're Vivienne."
+        }
+      ]
+    },
+    {
+      "speaker_id": "C014",
+      "canonical_name": "Chief Elder Laurent",
+      "gender_from_character_data": "male",
+      "assignment_count": 17,
+      "assignment_type_counts": {
+        "character": 17
+      },
+      "source_speech_style": [
+        "formal",
+        "authoritative"
+      ],
+      "draft_performance_direction": "Draft performance direction based only on the existing character notes: formal, authoritative. Do not infer pitch, age, accent, or timbre until audio review.",
+      "acoustic_profile": {
+        "perceived_pitch": null,
+        "timbre": null,
+        "pace": null,
+        "accent": null,
+        "age_quality": null
+      },
+      "tts_voice_id": null,
+      "audio_reference_status": "not_yet_assessed",
+      "english_dialogue_examples": [
+        {
+          "subtitle_id": 998,
+          "text": "Step back."
+        },
+        {
+          "subtitle_id": 1016,
+          "text": "When your father came to me this afternoon."
+        },
+        {
+          "subtitle_id": 1017,
+          "text": "He said"
+        },
+        {
+          "subtitle_id": 1018,
+          "text": "he asked me to stay out"
+        },
+        {
+          "subtitle_id": 1019,
+          "text": "of another pack's internal matters."
+        },
+        {
+          "subtitle_id": 1021,
+          "text": "He was right that I don't enjoy interfering."
+        }
+      ]
+    },
+    {
+      "speaker_id": "C019",
+      "canonical_name": "The royal seer",
+      "gender_from_character_data": "male",
+      "assignment_count": 2,
+      "assignment_type_counts": {
+        "character": 2
+      },
+      "source_speech_style": [
+        "direct"
+      ],
+      "draft_performance_direction": "Draft performance direction based only on the existing character notes: direct. Do not infer pitch, age, accent, or timbre until audio review.",
+      "acoustic_profile": {
+        "perceived_pitch": null,
+        "timbre": null,
+        "pace": null,
+        "accent": null,
+        "age_quality": null
+      },
+      "tts_voice_id": null,
+      "audio_reference_status": "not_yet_assessed",
+      "english_dialogue_examples": [
+        {
+          "subtitle_id": 1052,
+          "text": "I've seen enough,"
+        },
+        {
+          "subtitle_id": 1054,
+          "text": "I'll be reporting directly to the Alpha King."
+        }
+      ]
+    }
+  ]
+}
