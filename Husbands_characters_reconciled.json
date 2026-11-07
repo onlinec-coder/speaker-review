@@ -82,15 +82,11 @@
           "type": "child"
         },
         {
-          "target": "Narrator",
+          "target": "Vivienne",
           "type": "sibling"
         },
         {
-          "target": "Narrator",
-          "type": "sister"
-        },
-        {
-          "target": "Narrator",
+          "target": "Vivienne",
           "type": "sibling/ally"
         },
         {
@@ -235,7 +231,7 @@
       "gender": "male",
       "relationships": [
         {
-          "target": "Narrator",
+          "target": "Vivienne",
           "type": "father-in-law"
         }
       ],
@@ -278,11 +274,11 @@
           "type": "suitor"
         },
         {
-          "target": "Narrator",
+          "target": "Vivienne",
           "type": "childhood friend"
         },
         {
-          "target": "Narrator",
+          "target": "Vivienne",
           "type": "partner/suitor"
         },
         {
@@ -302,7 +298,7 @@
           "type": "partner/mate"
         },
         {
-          "target": "Narrator",
+          "target": "Vivienne",
           "type": "aggressor"
         }
       ],
@@ -378,7 +374,7 @@
           "type": "mother"
         },
         {
-          "target": "Narrator",
+          "target": "Vivienne",
           "type": "parent"
         },
         {
@@ -589,6 +585,7 @@
     "exclude_from_characters доторх бүртгэлийг хассан.",
     "2026-11-07: C011 Lucien was removed after source SRT verification found no occurrence of 'Lucien'; related references were corrected to Lucian. C022 Luke was merged into C010 Luke Laurent after dialogue verification of cues 1191, 1193-1195, and 1197.",
     "2026-11-07: C021-ийн өмнөх evidence IDs 811, 816 нь хамтарсан Valeris дурдлагатай таарахгүй байсан тул бодит хамтарсан дурдлага болох SRT cue 1093-аар сольсон. C021 нь зөвхөн хамтарсан дурдлагын unresolved тэмдэглэл бөгөөд speaker assignment-д ашиглагдахгүй.",
-    "2026-11-07: C021 Valerius нь Alpha Valeris болон Luna Valerius-ийн хамтарсан дурдлага болохоос бие даасан дүр/яригч биш. Speaker engine нь Narrator-оос бусад characters бүртгэлийг AI prompt-д дамжуулдаг тул C021-ийг characters жагсаалтаас хасаж, unresolved тэмдэглэлд хадгалсан. Ингэснээр давхардсан Alpha/Luna alias-ууд AI-ийн сонголтод орохгүй."
+    "2026-11-07: C021 Valerius нь Alpha Valeris болон Luna Valerius-ийн хамтарсан дурдлага болохоос бие даасан дүр/яригч биш. Speaker engine нь Narrator-оос бусад characters бүртгэлийг AI prompt-д дамжуулдаг тул C021-ийг characters жагсаалтаас хасаж, unresolved тэмдэглэлд хадгалсан. Ингэснээр давхардсан Alpha/Luna alias-ууд AI-ийн сонголтод орохгүй.",
+    "2026-11-07: Хүүрнэгчийн voice identity нь Vivienne (C001) тул дүрүүдийн relationships доторх target='Narrator' заалтуудыг target='Vivienne' болгон нэгтгэв. Exact давхардсан relationship объектуудыг цэвэрлэв. C005 Narrator-г хуучин эх сурвалжийн metadata байдлаар хадгалсан бөгөөд speaker prompt-д орохгүй."
   ]
 }
