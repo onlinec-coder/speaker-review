@@ -1209,6 +1209,26 @@ def process_results(
         all_results
     )
 
+    # Шинэ бүрэн үр дүнгээр солихоос өмнө хуучин assignment-ийг хадгална.
+    if ASSIGNMENTS_FILE.exists():
+        backup_file = ASSIGNMENTS_FILE.with_name(
+            f"{ASSIGNMENTS_FILE.stem}_backup_{time.strftime('%Y%m%d_%H%M%S')}{ASSIGNMENTS_FILE.suffix}"
+        )
+
+        suffix = 1
+        while backup_file.exists():
+            backup_file = ASSIGNMENTS_FILE.with_name(
+                f"{ASSIGNMENTS_FILE.stem}_backup_{time.strftime('%Y%m%d_%H%M%S')}_{suffix}{ASSIGNMENTS_FILE.suffix}"
+            )
+            suffix += 1
+
+        shutil.copy2(
+            ASSIGNMENTS_FILE,
+            backup_file
+        )
+
+        print(f"Өмнөх assignment backup: {backup_file}")
+
     save_json(
         ASSIGNMENTS_FILE,
         output
