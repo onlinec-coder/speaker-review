@@ -6370,7 +6370,7 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+      "evidence": "Alpha Valeris Lucian-аас 'Who is she?' гэж шууд асууж байна."
     },
     {
       "subtitle_id": 797,
@@ -6394,7 +6394,7 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+      "evidence": "Alpha Valeris Lucian-ийг нэрээр нь дуудаж, хариу нэхэж байна."
     },
     {
       "subtitle_id": 800,
@@ -6410,7 +6410,7 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+      "evidence": "800-р мөрийн 'Alpha Valeris's voice dropped' гэсэн тэмдэглэгээний дараах шууд асуулт."
     },
     {
       "subtitle_id": 802,
@@ -6566,11 +6566,11 @@
     },
     {
       "subtitle_id": 821,
-      "speaker_id": "C012",
-      "speaker_name": "Alpha Valeris",
+      "speaker_id": "C002",
+      "speaker_name": "Lucian",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+      "evidence": "Lucian Vivienne-ийн нэрийг дуудаж байна; 822-р мөрийн 'His voice came out low and tight' нь эрэгтэй яригч болохыг батална."
     },
     {
       "subtitle_id": 822,
@@ -6586,7 +6586,7 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+      "evidence": "824-р мөрийн 'Alpha Valeris said' нь 'That's enough' гэдэг үгийг Alpha Valeris хэлснийг шууд батална."
     },
     {
       "subtitle_id": 824,
@@ -6618,7 +6618,7 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+      "evidence": "Alpha Valeris хамгийн ойрын хамгаалагчид Chief Elder Laurent руу залгахыг тушааж байна."
     },
     {
       "subtitle_id": 828,
@@ -6634,7 +6634,7 @@
       "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
-      "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+      "evidence": "827–828-р мөрийн тушаалыг 'Now' гэж үргэлжлүүлсэн Alpha Valeris-ийн шууд үг."
     },
     {
       "subtitle_id": 830,
@@ -13477,7 +13477,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+        "evidence": "Alpha Valeris Lucian-аас 'Who is she?' гэж шууд асууж байна."
       },
       {
         "subtitle_id": 797,
@@ -13501,7 +13501,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+        "evidence": "Alpha Valeris Lucian-ийг нэрээр нь дуудаж, хариу нэхэж байна."
       },
       {
         "subtitle_id": 800,
@@ -13517,7 +13517,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+        "evidence": "800-р мөрийн 'Alpha Valeris's voice dropped' гэсэн тэмдэглэгээний дараах шууд асуулт."
       },
       {
         "subtitle_id": 802,
@@ -13673,11 +13673,11 @@
       },
       {
         "subtitle_id": 821,
-        "speaker_id": "C012",
-        "speaker_name": "Alpha Valeris",
+        "speaker_id": "C002",
+        "speaker_name": "Lucian",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+        "evidence": "Lucian Vivienne-ийн нэрийг дуудаж байна; 822-р мөрийн 'His voice came out low and tight' нь эрэгтэй яригч болохыг батална."
       },
       {
         "subtitle_id": 822,
@@ -13693,7 +13693,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+        "evidence": "824-р мөрийн 'Alpha Valeris said' нь 'That's enough' гэдэг үгийг Alpha Valeris хэлснийг шууд батална."
       },
       {
         "subtitle_id": 824,
@@ -13725,7 +13725,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+        "evidence": "Alpha Valeris хамгийн ойрын хамгаалагчид Chief Elder Laurent руу залгахыг тушааж байна."
       },
       {
         "subtitle_id": 828,
@@ -13741,7 +13741,7 @@
         "speaker_name": "Alpha Valeris",
         "speaker_type": "character",
         "confidence": "high",
-        "evidence": "Alpha Valeris Lucian-д болон бусдад хандан шууд асууж/тушааж байна."
+        "evidence": "827–828-р мөрийн тушаалыг 'Now' гэж үргэлжлүүлсэн Alpha Valeris-ийн шууд үг."
       },
       {
         "subtitle_id": 830,
