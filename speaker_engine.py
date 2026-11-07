@@ -1323,6 +1323,28 @@ def main():
         subtitle_path
     )
 
+    characters = load_characters(
+        CHARACTER_FILE
+    )
+
+    speaker_data = prepare_speaker_data(
+        subtitles,
+        characters
+    )
+
+    batches = create_subtitle_batches(
+        speaker_data["subtitles"],
+        batch_size=BATCH_SIZE,
+        context_size=CONTEXT_SIZE
+    )
+
+    prepare_analysis_files(
+        speaker_data,
+        batches
+    )
+
+    provider, model, client = load_ai_config()
+
     # Өмнөх багцын үр дүнг backup хийнэ. Ингэснээр өөр SRT-ийн
     # хуучин үр дүн шинэ боловсруулалттай холилдохгүй.
     if RESULT_DIRECTORY.exists():
@@ -1348,28 +1370,6 @@ def main():
         parents=True,
         exist_ok=True
     )
-
-    characters = load_characters(
-        CHARACTER_FILE
-    )
-
-    speaker_data = prepare_speaker_data(
-        subtitles,
-        characters
-    )
-
-    batches = create_subtitle_batches(
-        speaker_data["subtitles"],
-        batch_size=BATCH_SIZE,
-        context_size=CONTEXT_SIZE
-    )
-
-    prepare_analysis_files(
-        speaker_data,
-        batches
-    )
-
-    provider, model, client = load_ai_config()
 
     print("\n========== SPEAKER ENGINE ==========")
 
