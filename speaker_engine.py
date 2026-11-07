@@ -1,6 +1,7 @@
 
 import json
 import os
+import shutil
 import time
 from pathlib import Path
 
@@ -24,9 +25,7 @@ REVIEW_REPORT_FILE = Path("speaker_review_report.json")
 
 BATCH_SIZE = 40
 CONTEXT_SIZE = 5
-RETRY_ONLY_BATCHES = [
-    2
-]
+RETRY_ONLY_BATCHES = []  # Бүх багцыг боловсруулна.
 
 VALID_SPEAKER_TYPES = [
     "character",
@@ -1313,7 +1312,7 @@ def get_subtitle_file_path():
 
 def main():
 
-    global SUBTITLE_FILE
+    global SUBTITLE_FILE, RESULT_DIRECTORY
 
     import time
 
@@ -1322,6 +1321,32 @@ def main():
 
     subtitles = load_subtitles(
         subtitle_path
+    )
+
+    # Өмнөх багцын үр дүнг backup хийнэ. Ингэснээр өөр SRT-ийн
+    # хуучин үр дүн шинэ боловсруулалттай холилдохгүй.
+    if RESULT_DIRECTORY.exists():
+        backup_directory = RESULT_DIRECTORY.with_name(
+            f"{RESULT_DIRECTORY.name}_backup_{time.strftime('%Y%m%d_%H%M%S')}"
+        )
+
+        suffix = 1
+        while backup_directory.exists():
+            backup_directory = RESULT_DIRECTORY.with_name(
+                f"{RESULT_DIRECTORY.name}_backup_{time.strftime('%Y%m%d_%H%M%S')}_{suffix}"
+            )
+            suffix += 1
+
+        shutil.move(
+            str(RESULT_DIRECTORY),
+            str(backup_directory)
+        )
+
+        print(f"Өмнөх үр дүнгийн backup: {backup_directory}")
+
+    RESULT_DIRECTORY.mkdir(
+        parents=True,
+        exist_ok=True
     )
 
     characters = load_characters(
@@ -1364,13 +1389,6 @@ def main():
     for index, batch in enumerate(batches):
 
         batch_number = batch["batch_number"]
-
-        if RETRY_ONLY_BATCHES and batch_number not in RETRY_ONLY_BATCHES:
-            print(
-                f"\nБагц {batch_number}: "
-                "Дахин боловсруулах жагсаалтад байхгүй тул алгаслаа."
-            )
-            continue
 
         print(
             f"\n---------- "
